@@ -105,7 +105,7 @@ llm.collective_rpc("reload_weights", kwargs={"weights_iterator": weights_iterato
 
 | Function | Purpose | Quantized Reload | Online Quantization |
 | - | - | - | - |
-| `record_metadata_for_reloading` | Record tensor metadata so that layers can be restored on the meta device | Called by `BaseModelLoader` | Called by `BaseModelLoader` |
+| `record_metadata_for_reloading` | Record tensor metadata so that layers can be restored on the meta device | Called by `BaseModelLoader` | Called by `BaseModelLoader` |
 | `restore_layer_on_meta` | Restore layer to model format at start of reload | Called by `initialize_layerwise_reload` | Not called. Online quantized weights already start on meta device via `...OnlineLinearMethod.create_weights` |
 | `initialize_online_processing` | Wrap weight loaders with the `online_process_loader` wrapper, which buffers weights until all layer weights have been loaded | Called by `initialize_layerwise_reload` | Called by `...OnlineLinearMethod.create_weights` |
 | `_layerwise_process` | Process layer once all weights are loaded | Called by `online_process_loader` during loading | Called by `online_process_loader` during loading |
