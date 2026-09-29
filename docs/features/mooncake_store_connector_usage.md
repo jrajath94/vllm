@@ -51,7 +51,7 @@ Create a JSON configuration file (e.g., `mooncake_config.json`):
 
 - `mode`: Topology selection. `"embedded"` (default, PR-40900 baseline) has each
   vLLM rank contribute `global_segment_size` to the pool in-process.
-  `"standalone-store"` makes ranks pure requesters — an external
+  `"standalone-store"` makes ranks pure requesters - an external
   `mooncake_client` process owns the CPU pool and (optionally) the SSD tier.
 - `protocol`: Use `"rdma"` for best performance. `"tcp"` works as a fallback.
 - `global_segment_size`: CPU memory contributed to the distributed pool (per
@@ -187,8 +187,8 @@ the vLLM JSON config.
 | --- | --- | --- |
 | `MOONCAKE_CONFIG_PATH` | Path to Mooncake JSON config file | (required) |
 | `VLLM_MOONCAKE_BOOTSTRAP_PORT` | Bootstrap port for MooncakeConnector P2P transfer (disagg mode only) | 8998 |
-| `MOONCAKE_PREFERRED_SEGMENT` | Pin this rank's replicas to a specific owner segment (`host:port`); used in `standalone-store` mode | — |
-| `MOONCAKE_REQUESTER_LOCAL_HOSTNAME` | Override the hostname the vLLM rank registers with Mooncake as a requester. Defaults to the rank's resolved IP. | — |
+| `MOONCAKE_PREFERRED_SEGMENT` | Pin this rank's replicas to a specific owner segment (`host:port`); used in `standalone-store` mode | - |
+| `MOONCAKE_REQUESTER_LOCAL_HOSTNAME` | Override the hostname the vLLM rank registers with Mooncake as a requester. Defaults to the rank's resolved IP. | - |
 | `VLLM_MOONCAKE_STORE_TIER_LOG` | When `1`, logs a per-batch tier summary (memory vs disk hits) for observability | disabled |
 | `VLLM_MOONCAKE_DISK_STAGING_USABLE_RATIO` | Fraction of the owner's DirectIO staging buffer that the requester will fill in a single `batch_get_into_multi_buffers` call. Lower → more conservative pre-split, more round trips. | 0.9 |
 
@@ -211,7 +211,7 @@ the vLLM JSON config.
 
 ### Reproducible Block Hashes Across Processes
 
-The `MooncakeStoreConnector` relies on consistent block hashes across all vLLM processes sharing the distributed store. Because Python randomizes its hash seed per process by default, identical prompts can produce different block hashes on different processes — preventing cross-process prefix cache hits.
+The `MooncakeStoreConnector` relies on consistent block hashes across all vLLM processes sharing the distributed store. Because Python randomizes its hash seed per process by default, identical prompts can produce different block hashes on different processes - preventing cross-process prefix cache hits.
 
 Set a fixed `PYTHONHASHSEED` on every instance that shares the store (DP ranks, separate prefiller/decoder nodes, and any other vLLM process pointed at the same Mooncake store):
 
