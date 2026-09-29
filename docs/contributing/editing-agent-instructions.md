@@ -6,7 +6,7 @@
 
 `AGENTS.md` loads on every agent request; domain guides load on entry to a relevant area.
 Keep `AGENTS.md` under **200 lines** and each domain guide under **300 lines**.
-When a file exceeds its budget, split or prune — do not compress prose to fit.
+When a file exceeds its budget, split or prune - do not compress prose to fit.
 
 ## When NOT to Add Content
 
@@ -15,7 +15,7 @@ Before writing a new rule, ask whether it is actually needed:
 - **Agents already do it.** Test with a prompt first. If the agent behaves correctly without the rule, don't add it.
 - **One-off incident.** Prefer a code-level fix (lint rule, CI check, test assertion) over a new doc rule.
 - **Hardcoded paths.** File paths change; use "search for X" patterns instead.
-- **Upstream docs.** Don't reproduce pytest, ruff, or other tool docs — link to them.
+- **Upstream docs.** Don't reproduce pytest, ruff, or other tool docs - link to them.
 - **Contradicts an existing rule.** Search all linked guides before adding. If two rules conflict, consolidate into one.
 - **Already covered elsewhere.** Search `AGENTS.md` and every linked guide for overlapping guidance.
 
@@ -33,7 +33,7 @@ The goal is a lean `AGENTS.md` plus rich domain guides that teach agents what th
 **Rules of thumb:**
 
 - If it only matters for one area, put it in a domain guide.
-- If it matters for all areas, consider `AGENTS.md` — but first verify agents don't already do it.
+- If it matters for all areas, consider `AGENTS.md` - but first verify agents don't already do it.
 - Create a new domain guide when you have 5 or more non-obvious instructions sharing a coherent scope.
 
 ## What Makes a Good Domain Guide
@@ -41,13 +41,13 @@ The goal is a lean `AGENTS.md` plus rich domain guides that teach agents what th
 Add what agents can't infer from the code or public docs: project-specific
 conventions that differ from standard patterns, correct approaches that require
 cross-file context, and fixes for repeated mistakes.
-Each entry should be short, specific, and actionable — e.g., which files to
+Each entry should be short, specific, and actionable - e.g., which files to
 touch, what order to change them in, and which tests to run.
 
 ## Keeping Docs Lean
 
 - Every addition should trigger review of surrounding content for stale or redundant items.
-- Prefer examples over explanations — a 3-line snippet beats a paragraph of prose.
+- Prefer examples over explanations - a 3-line snippet beats a paragraph of prose.
 - Merge related bullets into one principle instead of listing variants.
 - Use `search for X` instead of hardcoded file paths.
 - PR references are fine in domain guides for traceability, but avoid them in `AGENTS.md`.
