@@ -124,4 +124,4 @@ change and explain why**.
 
 - **Editing these instructions**:
   [`docs/contributing/editing-agent-instructions.md`](docs/contributing/editing-agent-instructions.md)
-  — Rules for modifying AGENTS.md or any domain-specific guide it references.
+  - Rules for modifying AGENTS.md or any domain-specific guide it references.
