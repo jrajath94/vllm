@@ -268,8 +268,8 @@ uv pip install vllm==${VLLM_VERSION} \
 vLLM offers official Docker images for deployment.
 The images can be used to run OpenAI compatible server and are available on Docker Hub as [vllm/vllm-openai-rocm](https://hub.docker.com/r/vllm/vllm-openai-rocm/tags).
 
-- `vllm/vllm-openai-rocm:latest` — stable release
-- `vllm/vllm-openai-rocm:nightly` — preview build from the latest development branch, use this if you want the latest features and fixes
+- `vllm/vllm-openai-rocm:latest` - stable release
+- `vllm/vllm-openai-rocm:nightly` - preview build from the latest development branch, use this if you want the latest features and fixes
 
 ```bash
 docker run --rm \
