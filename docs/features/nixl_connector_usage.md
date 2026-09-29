@@ -138,7 +138,7 @@ python tests/v1/kv_connector/nixl_integration/toy_proxy_server.py \
 
 ## Bidirectional KV Transfer (Multi-turn)
 
-In standard disaggregated prefilling, KV cache flows in one direction: Prefill (P) computes the KV cache and Decode (D) reads from P. For multi-turn conversations this is wasteful — D already holds the KV cache corresponding to the generated tokens from prior turns, yet P must recompute it from scratch on every new turn. Bidirectional KV transfer lets P **pull** existing KV blocks from D via RDMA before computing only the new tokens, significantly reducing Time-To-First-Token (TTFT) for long-prefill such as **multi-turn heavy scenarios**.
+In standard disaggregated prefilling, KV cache flows in one direction: Prefill (P) computes the KV cache and Decode (D) reads from P. For multi-turn conversations this is wasteful - D already holds the KV cache corresponding to the generated tokens from prior turns, yet P must recompute it from scratch on every new turn. Bidirectional KV transfer lets P **pull** existing KV blocks from D via RDMA before computing only the new tokens, significantly reducing Time-To-First-Token (TTFT) for long-prefill such as **multi-turn heavy scenarios**.
 
 ### How it works
 
@@ -193,13 +193,13 @@ sequenceDiagram
 **Turn 1 (cache miss):**
 
 1. Client sends a chat request with a `conversation_id` to the proxy.
-2. Proxy forwards the request to P with no remote block info — P computes the full KV cache.
+2. Proxy forwards the request to P with no remote block info - P computes the full KV cache.
 3. Proxy forwards the request to D along with P's `kv_transfer_params` (block IDs, engine ID, host/port).
 4. D reads KV blocks from P via RDMA (peer-to-peer pull), then generates the response.
 5. D streams the response back through the proxy. The final chunk includes D's own `kv_transfer_params`.
 6. Proxy caches D's `kv_transfer_params` keyed by `conversation_id`, then returns the response to the client.
 
-**Turn 2+ (cache hit — bidirectional):**
+**Turn 2+ (cache hit - bidirectional):**
 
 1. Client sends the next turn with the same `conversation_id`.
 2. Proxy looks up cached `kv_transfer_params` from the previous turn and attaches D's `remote_block_ids` to the request sent to P.
