@@ -118,7 +118,7 @@ curl -s http://localhost:8000/score -H "Content-Type: application/json" -d '{
 
 The `/score` and `/rerank` APIs also accept multi-modal inputs directly.
 Pass image documents using the `data_1`/`data_2` (for `/score`) or `documents` (for `/rerank`) fields
-with a `content` list containing `image_url` and `text` parts — the same format used by the
+with a `content` list containing `image_url` and `text` parts - the same format used by the
 OpenAI chat completion API:
 
 Score a text query against image documents:
