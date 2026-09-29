@@ -3,7 +3,7 @@
 The [CUDA Graphs](cuda_graphs.md) infrastructure in vLLM primarily targets the **decoder** (language model) forward pass. vLLM also supports capturing the **encoder** (vision transformer) forward pass as CUDA Graphs, independently from the decoder. This is based on <https://github.com/vllm-project/vllm/pull/35963>.
 
 !!! note
-    Encoder CUDA Graphs are orthogonal to decoder CUDA Graphs — both can be enabled simultaneously. Encoder graphs capture the vision encoder execution (e.g., ViT in Qwen3-VL), while decoder graphs capture the language model execution as described in the [CUDA Graphs design document](cuda_graphs.md).
+    Encoder CUDA Graphs are orthogonal to decoder CUDA Graphs - both can be enabled simultaneously. Encoder graphs capture the vision encoder execution (e.g., ViT in Qwen3-VL), while decoder graphs capture the language model execution as described in the [CUDA Graphs design document](cuda_graphs.md).
 
 ## Motivation
 
@@ -65,16 +65,16 @@ Following <https://github.com/vllm-project/vllm/pull/35963> (ViT full CUDA graph
 
 Models opt-in to encoder CUDA Graphs by implementing the [SupportsEncoderCudaGraph][vllm.model_executor.models.interfaces.SupportsEncoderCudaGraph] protocol. This protocol encapsulates all model-specific logic so that the manager remains model-agnostic. The protocol defines the following methods:
 
-* `get_encoder_cudagraph_config()` — returns static configuration (supported modalities, input key, buffer keys, output hidden size).
-* `get_encoder_cudagraph_budget_range(vllm_config)` — returns `(min_budget, max_budget)` for auto-inference of token budgets.
-* `get_encoder_cudagraph_num_items(mm_kwargs)` — returns the number of items (e.g. images) in the batch.
-* `get_encoder_cudagraph_per_item_output_tokens(mm_kwargs)` — returns per-item output token counts, used for greedy packing.
-* `get_encoder_cudagraph_per_item_input_sizes(mm_kwargs)` — returns per-item input sizes (e.g. patch counts), used for DP load balancing.
-* `select_encoder_cudagraph_items(mm_kwargs, indices)` — extracts a sub-batch of items by index, used during greedy packing and DP sharding.
-* `prepare_encoder_cudagraph_capture_inputs(...)` — creates dummy inputs for graph capture.
-* `prepare_encoder_cudagraph_replay_buffers(...)` — computes new buffer values from actual batch inputs before replay.
-* `encoder_cudagraph_forward(...)` — forward pass using precomputed buffers (called during capture and replay).
-* `encoder_eager_forward(...)` — fallback eager forward when no graph fits.
+* `get_encoder_cudagraph_config()` - returns static configuration (supported modalities, input key, buffer keys, output hidden size).
+* `get_encoder_cudagraph_budget_range(vllm_config)` - returns `(min_budget, max_budget)` for auto-inference of token budgets.
+* `get_encoder_cudagraph_num_items(mm_kwargs)` - returns the number of items (e.g. images) in the batch.
+* `get_encoder_cudagraph_per_item_output_tokens(mm_kwargs)` - returns per-item output token counts, used for greedy packing.
+* `get_encoder_cudagraph_per_item_input_sizes(mm_kwargs)` - returns per-item input sizes (e.g. patch counts), used for DP load balancing.
+* `select_encoder_cudagraph_items(mm_kwargs, indices)` - extracts a sub-batch of items by index, used during greedy packing and DP sharding.
+* `prepare_encoder_cudagraph_capture_inputs(...)` - creates dummy inputs for graph capture.
+* `prepare_encoder_cudagraph_replay_buffers(...)` - computes new buffer values from actual batch inputs before replay.
+* `encoder_cudagraph_forward(...)` - forward pass using precomputed buffers (called during capture and replay).
+* `encoder_eager_forward(...)` - fallback eager forward when no graph fits.
 * `get_input_modality(...)` - return the modality of the inputs.
 * `get_max_frames_per_video()` - return model-specific max frames per video.
 * `postprocess_encoder_output(...)` - post process encoder output, directly call scatter_output_slices by default
@@ -100,10 +100,10 @@ Models opt-in to encoder CUDA Graphs by implementing the [SupportsEncoderCudaGra
 
 Three fields in `CompilationConfig` control encoder CUDA Graphs:
 
-* `cudagraph_mm_encoder` (`bool`, default `False`) — enable CUDA Graph capture for multimodal encoder. When enabled, captures the full encoder forward as a CUDA Graph for each token budget level.
-* `encoder_cudagraph_token_budgets` (`list[int]`, default `[]`) — token budget levels for capture. If empty (default), auto-inferred from model architecture as power-of-2 levels. User-provided values override auto-inference.
-* `encoder_cudagraph_max_vision_items_per_batch` (`int`, default `0`) — maximum number of images/videos per batch during capture. If 0 (default), auto-inferred as `max_budget // min_budget`.
-* `encoder_cudagraph_max_frames_per_batch` (`int`, default `None`) — maximum number of video frames per batch during capture. If `None` (default), auto-inferred as `encoder_cudagraph_max_vision_items_per_batch * max_frames_per_video` (`max_frames_per_video` is a model-specific value according to its `processing_info`). If we limit the video count per prompt to `0`, it will also be set to `0` (i.e., fall back to image-only mode).
+* `cudagraph_mm_encoder` (`bool`, default `False`) - enable CUDA Graph capture for multimodal encoder. When enabled, captures the full encoder forward as a CUDA Graph for each token budget level.
+* `encoder_cudagraph_token_budgets` (`list[int]`, default `[]`) - token budget levels for capture. If empty (default), auto-inferred from model architecture as power-of-2 levels. User-provided values override auto-inference.
+* `encoder_cudagraph_max_vision_items_per_batch` (`int`, default `0`) - maximum number of images/videos per batch during capture. If 0 (default), auto-inferred as `max_budget // min_budget`.
+* `encoder_cudagraph_max_frames_per_batch` (`int`, default `None`) - maximum number of video frames per batch during capture. If `None` (default), auto-inferred as `encoder_cudagraph_max_vision_items_per_batch * max_frames_per_video` (`max_frames_per_video` is a model-specific value according to its `processing_info`). If we limit the video count per prompt to `0`, it will also be set to `0` (i.e., fall back to image-only mode).
 
 ## Usage guide
 
