@@ -64,7 +64,7 @@ If only one benchmark_results.json is passed, `compare-json-results.py` compares
 Here is an example using the script to compare result_a and result_b with max concurrency and qps for same Model, Dataset name, input/output length.
 `python3 compare-json-results.py -f results_a/benchmark_results.json -f results_b/benchmark_results.json`
 
-***Output Tput (tok/s) — Model : [ meta-llama/Llama-3.1-8B-Instruct ] , Dataset Name : [ random ] , Input Len : [ 2048.0 ] , Output Len : [ 2048.0 ]***
+***Output Tput (tok/s) - Model : [ meta-llama/Llama-3.1-8B-Instruct ] , Dataset Name : [ random ] , Input Len : [ 2048.0 ] , Output Len : [ 2048.0 ]***
 
 | | # of max concurrency | qps | results_a/benchmark_results.json | results_b/benchmark_results.json | perf_ratio |
 | | -------------------- | --- | -------------------------------- | -------------------------------- | ---------- |
