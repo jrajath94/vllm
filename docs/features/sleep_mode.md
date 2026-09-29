@@ -1,6 +1,6 @@
 # Sleep Mode
 
-vLLM's Sleep Mode allows you to temporarily release most GPU memory used by a model, including model weights and KV cache, without stopping the server or unloading the Docker container. This is especially useful for RLHF, training, or cost-saving scenarios where GPU resources need to be freed between inference workloads.
+vLLM's Sleep Mode allows you to temporarily release most GPU memory used by a model, including model weights and KV cache, without stopping the server or unloading the Docker container. This is especially useful for RLHF, training, or cost-saving scenarios where GPU resources need to be freed between inference workloads.
 
 Key benefits:
 
@@ -24,7 +24,7 @@ Level 1 sleep will offload the model weights and discard the KV cache. The conte
 
 ### Offline inference
 
-Enable sleep mode by passing `enable_sleep_mode=True` to the `LLM` class.
+Enable sleep mode by passing `enable_sleep_mode=True` to the `LLM` class.
 
 ```python
 from vllm import LLM
@@ -109,10 +109,10 @@ curl -X POST 'http://localhost:8000/wake_up?tags=kv_cache'
 
 #### HTTP endpoints
 
-- `POST /sleep?level=1` — Put the model to sleep (`level=1`).
-- `POST /wake_up` — Wake up the model. Supports optional `tags` query parameters for partial wake-up (e.g., `?tags=weights`).
-- `POST /collective_rpc` — Perform a collective remote procedure call (RPC).
-- `GET /is_sleeping` — Check if the model is sleeping.
+- `POST /sleep?level=1` - Put the model to sleep (`level=1`).
+- `POST /wake_up` - Wake up the model. Supports optional `tags` query parameters for partial wake-up (e.g., `?tags=weights`).
+- `POST /collective_rpc` - Perform a collective remote procedure call (RPC).
+- `GET /is_sleeping` - Check if the model is sleeping.
 
 !!! note
     These endpoints are only available when passing `VLLM_SERVER_DEV_MODE=1`.
