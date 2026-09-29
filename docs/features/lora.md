@@ -280,7 +280,7 @@ curl -X POST http://localhost:8000/v1/load_lora_adapter \
 
 !!! warning "You must know your adapter's layout"
     Under `--enable-mixed-moe-lora-format`, vLLM trusts whatever
-    `is_3d_lora_weight` the caller declares — it does **not** inspect the
+    `is_3d_lora_weight` the caller declares - it does **not** inspect the
     checkpoint to verify. A wrong declaration will load weights into the
     wrong stacked buffers and silently produce garbage outputs, with no
     error at load time. Confirm the layout before serving:
@@ -288,10 +288,10 @@ curl -X POST http://localhost:8000/v1/load_lora_adapter \
     - **2D (per-expert, megatron-style)** → set `is_3d_lora_weight: false`.
       Adapter keys look like `...experts.{idx}.gate_proj.lora_A.weight`,
       `...experts.{idx}.up_proj.lora_A.weight`,
-      `...experts.{idx}.down_proj.lora_A.weight` — one set per expert.
+      `...experts.{idx}.down_proj.lora_A.weight` - one set per expert.
     - **3D (fused, peft-style)** → set `is_3d_lora_weight: true`.
       Adapter keys look like `...experts.gate_up_proj.lora_A.weight`,
-      `...experts.down_proj.lora_A.weight` — a single tensor that stacks
+      `...experts.down_proj.lora_A.weight` - a single tensor that stacks
       all experts on the leading dim.
 
 When `--enable-mixed-moe-lora-format` is **not** set, `is_3d_lora_weight`
