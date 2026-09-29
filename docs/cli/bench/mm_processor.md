@@ -44,7 +44,7 @@ request. Use `--metric-percentiles` to select which percentiles to report
 (default: p99) and `--output-json` to save results.
 
 For more examples (HF datasets, warmup, JSON output), see
-[Benchmarking CLI — Multimodal Processor Benchmark](../../benchmarking/cli.md#multimodal-processor-benchmark).
+[Benchmarking CLI - Multimodal Processor Benchmark](../../benchmarking/cli.md#multimodal-processor-benchmark).
 
 ## JSON CLI Arguments
 
