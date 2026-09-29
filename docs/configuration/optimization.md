@@ -299,8 +299,8 @@ any `--tokenizer-mode` that ends up loading an HF fast tokenizer (`hf`,
 `deepseek_v32`, `deepseek_v4`, `qwen_vl`, …). Modes that don't use the HF
 fast tokenizer (`mistral`, `grok2`, `kimi_audio`) ignore the flag.
 
-Tokenizer-bound workloads — long shared prefixes, bursty short prompts,
-batch detokenization — see the largest wins. If your bottleneck is GPU
+Tokenizer-bound workloads - long shared prefixes, bursty short prompts,
+batch detokenization - see the largest wins. If your bottleneck is GPU
 prefill/decode, the tokenizer change is unlikely to be visible end-to-end.
 
 ### Parallel Processing
