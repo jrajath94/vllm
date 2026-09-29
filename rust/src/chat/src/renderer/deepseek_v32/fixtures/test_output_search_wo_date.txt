@@ -62,20 +62,20 @@ L1: URL: Search_Results/"16,201,670" vaccine doses
 L2: # Search Results
 L3: 
 L4:   * 【0†Kenya's Economy is Showing Resilience as Output Rises ...; publish_date: 
-L5: none†www.worldbank.org】 Dec 14, 2021 — As of December 5, 2021, Kenya had 
+L5: none†www.worldbank.org】 Dec 14, 2021 - As of December 5, 2021, Kenya had 
 L6: received a total of 16,201,670 vaccines, with 7,583,134 administered. While 
 L7: vaccine acceptance is ...
 L8:   * 【1†MINISTRY OF HEALTH; publish_date: none†covidhub.mediacouncil.or.ke】 Dec 
-L9: 1, 2021 — Total Doses Received 16,201,670. Table 10 gives the total vaccines 
+L9: 1, 2021 - Total Doses Received 16,201,670. Table 10 gives the total vaccines 
 L10: received since the start of Covid -19 vaccination exercise in the country.
 L11:   * 【2†Output Result Page; publish_date: none†open.unicef.org】 ... 16,201,670 
 L12: doses of multiple vaccines nationwide and full vaccination of 15.5 per cent with
 L13:  two doses of COVID-19 vaccine as of 31 December 2021.
-L14:   * 【3†rebased GDP; publish_date: none†documents1.worldbank.org】 Dec 7, 2021 — 
+L14:   * 【3†rebased GDP; publish_date: none†documents1.worldbank.org】 Dec 7, 2021 - 
 L15: As of December 5, 2021,. Kenya had received a total of 16,201,670 vaccines, 
 L16: with. 7,583,134 administered. Vaccine acceptance is reportedly high.
 L17:   * 【4†Integrated Annual Report; publish_date: none†www.co-opbank.co.ke】 May 27,
-L18:  2022 — ... doses of Covid-19 vaccines and administered close to 17 million ... 
+L18:  2022 - ... doses of Covid-19 vaccines and administered close to 17 million ... 
 L19: 16,201,670, huku 7,583,134 zikiwa tayari zimedungwa watu. Bado kuna ...
 L20:   * 【5†World Bank lifts Kenya's growth prospect to 5% in 2021; publish_date: 
 L21: none†www.africa-press.net】 ... 16,201,670 vaccines, with 7,583,134 administered.
@@ -123,7 +123,7 @@ L1: URL: Search_Results/"nearly 2.2 million members" "contributed over $49 milli
 L2: # Search Results
 L3: 
 L4:   * 【0†The Global Good Fund, Microsoft and Goodwill join forces ...; 
-L5: publish_date: none†globalgoodfund.org】 Sep 28, 2022 — ... more than 2.2 million 
+L5: publish_date: none†globalgoodfund.org】 Sep 28, 2022 - ... more than 2.2 million 
 L6: people. They additionally contribute close to $49 billion in local, state and 
 L7: federal tax revenues. When COVID hit ...
 L8:   * 【1†Almost 22 billion American tax dollars spent to wipe out a ...; 
@@ -131,33 +131,33 @@ L9: publish_date: none†www.facebook.com】 US military funding for Israel's wa
 L10:  in Lebanon and Gaza has now cost US taxpayers over $22 billion. When millions 
 L11: struggle to afford the ...
 L12:   * 【2†Corporate America has largely abandoned its post-January ...; 
-L13: publish_date: none†www.citizensforethics.org】 Jul 29, 2025 — Since the January 6
+L13: publish_date: none†www.citizensforethics.org】 Jul 29, 2025 - Since the January 6
 L14:  insurrection, over 2,000 corporate and industry group PACs have given over $174
 L15:  million to members of the Sedition ...
 L16:   * 【3†Audit shows millions in questionable taxpayer spending at ...; 
-L17: publish_date: none†www.aol.com】 18 hours ago — ... nearly doubled from 1.3 
+L17: publish_date: none†www.aol.com】 18 hours ago - ... nearly doubled from 1.3 
 L18: million to about 2.2 million. That is more than one in four Washington state 
 L19: residents receiving Medicaid, and the ...
 L20:   * 【4†Incarceration and Poverty in the United States - AAF; publish_date: 
-L21: none†www.americanactionforum.org】 Jun 30, 2020 — The United States currently 
+L21: none†www.americanactionforum.org】 Jun 30, 2020 - The United States currently 
 L22: incarcerates 2.2 million people, nearly half of whom are non-violent drug 
 L23: offenders, accused people held pre ...
 L24:   * 【5†How the NRA Spends Revenue (2023); publish_date: none†paddockpost.com】 
-L25: Apr 25, 2025 — In 2023, the NRA reported total revenue of $176 million (compared
+L25: Apr 25, 2025 - In 2023, the NRA reported total revenue of $176 million (compared
 L26:  to $211 million in 2022, $227 million in 2021, $282 million in 2020, $292 ...
 L27:   * 【6†NCA Newsroom; publish_date: none†www.ncausa.org】 ... 2.2 million U.S. 
-L28: jobs—operating in every U.S. state and territory and contributing nearly $350 
+L28: jobs-operating in every U.S. state and territory and contributing nearly $350 
 L29: billion to the U.S. economy every year. For media inquiries ...
 L30:   * 【7†The Early Childhood Educator Workforce; publish_date: 
 L31: none†cscce.berkeley.edu】 About 2.2 million adults are paid to care for and 
 L32: educate more than 9.7 million children between birth and age five in center-
 L33: based and home-based settings.
 L34:   * 【8†Bringing Out the Worst in Congress: CRA By the Numbers ...; publish_date:
-L35:  none†progressivereform.org】 Jul 14, 2025 — In fact, the top ten recipients (out
+L35:  none†progressivereform.org】 Jul 14, 2025 - In fact, the top ten recipients (out
 L36:  of 25) account for almost $7 million, showing how these contributions are 
 L37: targeted and strategic. Real ...
 L38:   * 【9†Club 100: Over 100 Americans gave more than $100000 to ...; publish_date:
-L39:  none†publicintegrity.org】 Jan 7, 2022 — Through Internet investments during the
+L39:  none†publicintegrity.org】 Jan 7, 2022 - Through Internet investments during the
 L40:  1990s, he attracted 2.2 million online accounts valued at $174 million. Schwab 
 L41: has been a vocal ...</result>
 </function_results>
@@ -203,7 +203,7 @@ L4:   * 【0†20-F; publish_date: none†www.sec.gov】 ANNUAL REPORT PURSUANT 
 L5: ... Our membership grew from 2.1 million members as at December 31, 2023 to 2.2 
 L6: million members as at December 31, 2024.
 L7:   * 【1†Oportun Reports Fourth Quarter and Full Year 2023 ...; publish_date: 
-L8: none†investor.oportun.com】 Mar 12, 2024 — Oportun (Nasdaq: OPRT) is a mission-
+L8: none†investor.oportun.com】 Mar 12, 2024 - Oportun (Nasdaq: OPRT) is a mission-
 L9: driven fintech that puts its 2.2 million members' financial goals within reach. 
 L10: ... annual report on ...
 L11:   * 【2†2 0 21; publish_date: none†www.annualreports.com】 ANNUAL REPORT. 2. 0. 
@@ -214,22 +214,22 @@ L15: Disclaimer. The Annual report and accounts have been prepared solely to pro
 L16: information to shareholders. ... 2.2 million members. In December 2019, we sold 
 L17: ...
 L18:   * 【4†united states securities and exchange commission; publish_date: 
-L19: none†s21.q4cdn.com】 Dec 14, 2018 — ☒ ANNUAL REPORT ... approximately 5.7 million
+L19: none†s21.q4cdn.com】 Dec 14, 2018 - ☒ ANNUAL REPORT ... approximately 5.7 million
 L20:  Members, including approximately 2.2 million Members from the acquisition of 
 L21: Best Doctors.
 L22:   * 【5†securities and exchange commission; publish_date: none†www.sec.gov】 ... 
 L23: Annual Report on Form 10-K filed with the SEC on March 10, 2020. The ... 2.2 
 L24: million members at June 30, 2020. The following table highlights the ...
 L25:   * 【6†2022-23 Annual Comprehensive Financial Report - CalPERS; publish_date: 
-L26: none†www.calpers.ca.gov】 Nov 17, 2023 — ... annual report is consistent with 
+L26: none†www.calpers.ca.gov】 Nov 17, 2023 - ... annual report is consistent with 
 L27: these accounting principles ... 2.2 million members and health benefit services 
 L28: to over 1.5 million ...
 L29:   * 【7†Medical Centers Report; publish_date: 
-L30: none†regents.universityofcalifornia.edu】 Oct 8, 2019 — which will allow its 2.2 
+L30: none†regents.universityofcalifornia.edu】 Oct 8, 2019 - which will allow its 2.2 
 L31: million members to receive advanced and ... annual report of the University of 
 L32: California. For the Medical ...
 L33:   * 【8†Working TogeTher to make HealtH care better; publish_date: 
-L34: none†www.unitedhealthgroup.com】 Feb 8, 2012 — ANNUAL REPORT PURSUANT TO SECTION 
+L34: none†www.unitedhealthgroup.com】 Feb 8, 2012 - ANNUAL REPORT PURSUANT TO SECTION 
 L35: 13 OR 15(d) OF THE ... approximately 2.2 million members enrolled in its 
 L36: Medicare. Advantage ...</result>
 </function_results>
@@ -416,14 +416,14 @@ L8:   * 【1†Financials; publish_date: none†defenders.org】 We invite you t
 L9: the reports below to learn more about our activities and accomplishments, and 
 L10: how we put your money to work for wildlife.
 L11:   * 【2†Alaska Program Looks Back on 2022; publish_date: none†defenders.org】 Feb 
-L12: 9, 2023 — Thanks to a lawsuit joined by Defenders, seven million acres were 
+L12: 9, 2023 - Thanks to a lawsuit joined by Defenders, seven million acres were 
 L13: returned to protection within the National Petroleum Reserve-Alaska (NPR-A), ...
 L14:   * 【3†Defenders-of-Wildlife-2022-Financial-Statement. ...; publish_date: 
 L15: none†defenders.org】 We have audited the accompanying consolidated financial 
 L16: statements of Defenders of Wildlife and Affiliated Defenders of Wildlife Action 
 L17: Fund (collectively, ...
 L18:   * 【4†2022 Annual Report; publish_date: none†alaskaconservation.org】 Jun 13, 
-L19: 2023 — In 2022, we focused on three landscapes: the Arctic. National Wildlife 
+L19: 2023 - In 2022, we focused on three landscapes: the Arctic. National Wildlife 
 L20: Refuge, Bristol Bay, and the Tongass National Forest. In March 2022,.
 L21:   * 【5†Assessment of ecological and cultural values within the ...; 
 L22: publish_date: none†www.blm.gov】 This document was written to provide technical 
@@ -491,7 +491,7 @@ L30: mining on endangered species, the ecological importance of panthers and the
 L31: implementation of “30x30” – the globally recognized goal to which President 
 L32: Biden committed the U.S. to conserve 30% of our imperiled lands and waters by 
 L33: 2030. \--- **DEFENDERS.ORG** ===== Page 4 ===== THANK YOU Defenders celebrated 
-L34: our 75th anniversary in 2022—an exciting milestone that we attribute to our 
+L34: our 75th anniversary in 2022-an exciting milestone that we attribute to our 
 L35: unwavering dedication to our wildlife conservation mission. From helping to pass
 L36:  the Endangered Species Act and other bedrock conservation laws to leading the 
 L37: advocacy on the reintroduction of wolves to Yellowstone National Park and other 
@@ -553,7 +553,7 @@ L183: a collaborative program with the Aaniih and Nakoda Tribes and others to re
 L184: swift foxes to the Fort Belknap Indian Reservation in Montana, Defenders helped 
 L185: with the release of 28 more swift foxes. With over 100 foxes reintroduced 
 L186: through this program, monitoring efforts show that they are reproducing in the 
-L187: wild—a critical measure of success for a self-sustaining population. \--- 
+L187: wild-a critical measure of success for a self-sustaining population. \--- 
 L188: **Defenders continued to lead the way** for conserving and recovering the 
 L189: endangered black-footed ferret, supporting the black-footed ferret survey for 
 L190: the Fort Belknap Indian community. Thirty-six ferrets were vaccinated against 
@@ -725,18 +725,18 @@ L2: 16,201,670 vaccines
 L3: # Search Results
 L4: 
 L5:   * 【0†Kenya's Economy is Showing Resilience as Output Rises ...; publish_date: 
-L6: none†www.worldbank.org】 Dec 14, 2021 — As of December 5, 2021, Kenya had 
+L6: none†www.worldbank.org】 Dec 14, 2021 - As of December 5, 2021, Kenya had 
 L7: received a total of 16,201,670 vaccines, with 7,583,134 administered. While 
 L8: vaccine acceptance is ...
 L9:   * 【1†Unmet need for COVID-19 vaccination coverage in Kenya - PMC; 
-L10: publish_date: none†pmc.ncbi.nlm.nih.gov】 by SK Muchiri · 2022 · Cited by 42 — As
+L10: publish_date: none†pmc.ncbi.nlm.nih.gov】 by SK Muchiri · 2022 · Cited by 42 - As
 L11:  of December 2021, six counties had a vaccination coverage of less than 5%. 
 L12: These counties include Garissa, Mandera, Marsabit, Tana River, Turkana, and ...
 L13:   * 【2†MINISTRY OF HEALTH; publish_date: none†covidhub.mediacouncil.or.ke】 Dec 
-L14: 1, 2021 — • Total Covid-19 Vaccines Received to date- 16,201,670 ... Table 10: 
+L14: 1, 2021 - • Total Covid-19 Vaccines Received to date- 16,201,670 ... Table 10: 
 L15: Vaccine Logistics Received in the Country as at 5th, December 2021.
 L16:   * 【3†COVID-19 vaccination refusal trends in Kenya over 2021 - PMC; 
-L17: publish_date: none†pmc.ncbi.nlm.nih.gov】 by RT Rego · 2023 · Cited by 21 — We 
+L17: publish_date: none†pmc.ncbi.nlm.nih.gov】 by RT Rego · 2023 · Cited by 21 - We 
 L18: assessed vaccine refusal over time in Kenya, and characterized factors 
 L19: associated with changes in vaccination refusal.
 L20:   * 【4†Ciheb-Kenya on the Front Lines of the COVID-19 Vaccine ...; publish_date:
@@ -751,14 +751,14 @@ L28: none†www.parliament.go.ke】 Kenya has a well-established immunization pr
 L29:  a robust disease surveillance and response unit (DSRU) which serves as an early
 L30:  warning system, to.
 L31:   * 【7†Kenya: Vaccine Requirements Violate Rights; publish_date: 
-L32: none†www.hrw.org】 Dec 13, 2021 — Kenya, with an estimated adult population of 
+L32: none†www.hrw.org】 Dec 13, 2021 - Kenya, with an estimated adult population of 
 L33: 27.2 million and a total population of 55 million, has received approximately 23
 L34:  million doses as ...
 L35:   * 【8†Government gives 20 million a month to get vaccinated; publish_date: 
-L36: none†www.bbc.com】 Nov 22, 2021 — Although less than 10% of Kenyans are 
+L36: none†www.bbc.com】 Nov 22, 2021 - Although less than 10% of Kenyans are 
 L37: vaccinated, the government wants to avoid a surge over Christmas.
 L38:   * 【9†ministry of health kenya covid-19 immunization status ...; publish_date: 
-L39: none†www.health.go.ke】 May 15, 2022 — By the end of 2021 Kenya had administered 
+L39: none†www.health.go.ke】 May 15, 2022 - By the end of 2021 Kenya had administered 
 L40: 10.1 million doses of 5 types of Covid-19 vaccines. During this period 4.2 
 L41: million people were ...</result>
 </function_results>
@@ -780,7 +780,7 @@ L0:
 L1: URL: https://www.worldbank.org/en/news/press-release/2021/12/14/kenya-s-economy-
 L2: is-showing-resilience-as-output-rises-above-pre-pandemic-levels-driven-by-a-
 L3: rebound-in-the-services-sect
-L4: NAIROBI, December 14, 2021 — Kenya’s economy has demonstrated resilience to the 
+L4: NAIROBI, December 14, 2021 - Kenya’s economy has demonstrated resilience to the 
 L5: COVID-19 shock, with output in the first half of the year rising above pre-
 L6: pandemic levels. In 2021 as a whole, gross domestic product (GDP) is expected to
 L7:  grow by 5%, one of the faster recoveries among Sub-Saharan African countries. 
@@ -897,7 +897,7 @@ L20:   * 【5†annual report; publish_date: none†defenders.org】 * Executive
 L21: member. BoARD EMERITuS. Terry C. Pelster. New York. Alan Steinberg. Florida. 
 L22: PRESIDENT. EMERITuS. Rodger Schlickeisen. Virginia. SCIENCE ...
 L23:   * 【6†BEING THERE FOR BELUGAS; publish_date: none†wendeenicole.com】 Mar 2, 2023
-L24:  — Defenders of Wildlife is a national, nonprofit member- ship ... Terry C. 
+L24:  - Defenders of Wildlife is a national, nonprofit member- ship ... Terry C. 
 L25: Pelster, Esq. New York. *Executive Committee member outfront.
 L26:   * 【7†Annual Reports; publish_date: none†www.annualreports.com】 WAYS TO GIVE 
 L27: There are many ways to support Defenders of Wildlife and protect our imperiled 
