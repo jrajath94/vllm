@@ -1069,7 +1069,7 @@ if(VLLM_GPU_LANG STREQUAL "CUDA" OR VLLM_GPU_LANG STREQUAL "HIP")
   # device on DeviceGuard, core dumps on multi-GPU tests).
   #
   # If PyTorch doesn't bundle libamdhip64 (built from source against system
-  # ROCm), there is only one copy in the process and no action is needed —
+  # ROCm), there is only one copy in the process and no action is needed -
   # the HIP compiler already links the system libamdhip64 automatically.
   if(VLLM_GPU_LANG STREQUAL "HIP")
     find_library(_STABLE_TORCH_AMDHIP64 amdhip64
