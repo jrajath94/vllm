@@ -65,21 +65,21 @@ L1: URL: Search_Results/search agent benchmark 2024
 L2: # Search Results
 L3: 
 L4:   * 【0†HSCodeComp: A Realistic and Expert-level Benchmark for ...; publish_date:
-L5:  none†arxiv.org】 Oct 22, 2025 — To fill this gap, we introduce HSCodeComp, the 
+L5:  none†arxiv.org】 Oct 22, 2025 - To fill this gap, we introduce HSCodeComp, the 
 L6: first realistic, expert-level e-commerce benchmark designed to evaluate deep 
 L7: search agents in ...
 L8:   * 【1†open-compass/GTA - A Benchmark for General Tool Agents; publish_date: 
 L9: none†github.com】 GTA is a benchmark to evaluate the tool-use capability of LLM-
 L10: based agents in real-world scenarios. It features three main aspects.
 L11:   * 【2†Benchmarking real-time trust scoring across five AI Agent ...; 
-L12: publish_date: none†cleanlab.ai】 Aug 20, 2025 — This article evaluates 5 AI Agent
+L12: publish_date: none†cleanlab.ai】 Aug 20, 2025 - This article evaluates 5 AI Agent
 L13:  architectures over the BOLAA (ICLR 2024) benchmark, and assesses the effects of
 L14:  adding automated trust ...
 L15:   * 【3†10 AI agent benchmarks; publish_date: none†www.evidentlyai.com】 Jul 11, 
-L16: 2025 — We put together 10 AI agent benchmarks designed to assess how well 
+L16: 2025 - We put together 10 AI agent benchmarks designed to assess how well 
 L17: different LLMs perform as agents in real-world scenarios, ...
 L18:   * 【4†A state-of-the-art search API purpose-built for agents; publish_date: 
-L19: none†parallel.ai】 Jul 31, 2025 — To evaluate real-world performance of the 
+L19: none†parallel.ai】 Jul 31, 2025 - To evaluate real-world performance of the 
 L20: Parallel Search MCP Server, we created the WISER-Search benchmark which blends 
 L21: WISER-Fresh (queries ...
 L22:   * 【5†AI Agent Benchmarks are Broken; publish_date: none†medium.com】 We break 
@@ -90,11 +90,11 @@ L26: none†dpfried.github.io】 2024, When is Tree Search Useful? ○ Dealing w
 L27: destructive actions. ○ Some things on the web are very difficult to undo, e.g., 
 L28: ordering an item. 56.
 L29:   * 【7†-Bench: Benchmarking AI agents for the real-world; publish_date: 
-L30: none†sierra.ai】 Jun 20, 2024 — τ-bench measures an agent's ability to interact 
+L30: none†sierra.ai】 Jun 20, 2024 - τ-bench measures an agent's ability to interact 
 L31: with (simulated) human users and programmatic APIs while following domain-
 L32: specific policies in a consistent ...
 L33:   * 【8†Browser Use = state of the art Web Agent; publish_date: none†browser-
-L34: use.com】 Dec 15, 2024 — Browser Use has achieved state-of-the-art performance on
+L34: use.com】 Dec 15, 2024 - Browser Use has achieved state-of-the-art performance on
 L35:  the WebVoyager benchmark, with an impressive 89.1% success rate across 586 
 L36: diverse web tasks.
 L37:   * 【9†FutureSearch Benchmarks; publish_date: none†evals.futuresearch.ai】 Find 
@@ -108,22 +108,22 @@ L1: URL: Search_Results/搜索智能体 基准测试
 L2: # Search Results
 L3: 
 L4:   * 【0†WideSearch：揭示AI 智能体缺失的「广度」能力; publish_date: none†zhuanlan.zhihu.com】 Aug 
-L5: 16, 2025 — 为系统评估智能体在该任务上的能力，论文构建了第一个专门的基准测试 WideSearch ，包含200 个源于真实世界、横跨18 
+L5: 16, 2025 - 为系统评估智能体在该任务上的能力，论文构建了第一个专门的基准测试 WideSearch ，包含200 个源于真实世界、横跨18 
 L6: 个领域的高质量任务。 通过对超过10 个 ...
 L7:   * 【1†GAIA: 一个严苛的智能体基准- HuggingFace; publish_date: none†www.cnblogs.com】 Jul 9,
-L8:  2024 — 我们使用一个用库构建的代码智能体 在GAIA 基准上进行测试，这可以说是最困难、最全面的智能体基准测试……最终我们取得了第一名的成绩！ 
+L8:  2024 - 我们使用一个用库构建的代码智能体 在GAIA 基准上进行测试，这可以说是最困难、最全面的智能体基准测试……最终我们取得了第一名的成绩！ 
 L9: GAIA: 一个严苛的 ...
 L10:   * 【2†AI搜索智能体遭遇新挑战：滑铁卢大学团队提出更公平透明的 ...; publish_date: none†www.techwalker.com】 
-L11: Aug 14, 2025 — 
+L11: Aug 14, 2025 - 
 L12: 目前评测AI搜索智能体主要依靠BrowseComp这样的基准测试，它就像一场实时的开卷考试，让AI在真实的网络环境中搜索信息来回答复杂问题。听起来很合理 ...
 L13:   * 【3†Agentic AI基础设施实践经验系列（六）：Agent质量评估 - AWS; publish_date: 
-L14: none†aws.amazon.com】 Sep 19, 2025 — TAU-bench 
+L14: none†aws.amazon.com】 Sep 19, 2025 - TAU-bench 
 L15: 是一个评估AI智能体在真实世界环境中可靠性的基准测试。它评估智能体是否能够在动态的多轮对话中与用户进行交互，理解需求并完成任务。T-bench ...
 L16:   * 【4†DeepAgent：能自己找工具的通用推理智能体 - 高瓴人工智能学院; publish_date: none†ai.ruc.edu.cn】 
-L17: Nov 6, 2025 — 在八大基准测试中，DeepAgent在绝大多数任务上全面领先所有基线模型。 
+L17: Nov 6, 2025 - 在八大基准测试中，DeepAgent在绝大多数任务上全面领先所有基线模型。 
 L18: 开放环境优势:在最具挑战的“开放工具检索”场景下(如ToolBench)，其成功率达到64%，远 ...
 L19:   * 【5†BrowseComp：为浏览智能体设计的简单而具挑战性的基准测试; publish_date: none†blog.csdn.net】 Sep 
-L20: 22, 2025 — 该基准测试由OpenAI团队开发，旨在推动更可信赖和可靠的AI代理研究。 核心特点. 
+L20: 22, 2025 - 该基准测试由OpenAI团队开发，旨在推动更可信赖和可靠的AI代理研究。 核心特点. 
 L21: 挑战性问题设计：BrowseComp的问题设计遵循严格的难度标准：. 人类创建者确保 ...
 L22:   * 【6†什么是GAIA？; publish_date: none†huggingface.co】 什么是GAIA？ GAIA 
 L23: 是一个用于评估AI助手在需要核心能力组合的真实世界任务上的表现的基准，这些核心能力包括推理、多模态理解、网页浏览和熟练的工具使用。
@@ -131,10 +131,10 @@ L24:   * 【7†SuperCLUE-Agent: Agent智能体中文原生任务能力测评基
 L25: none†www.cluebenchmarks.com】 AI 
 L26: Agent是一个能够自主理解、规划决策和执行复杂任务的智能体，有代表性的Agent比如AutoGPT、AgentGPT等。 
 L27: 现有关于Agent能力的测评，主要是在英文场景或任务的测评。目前还 ...
-L28:   * 【8†Gaia2 与ARE：赋能社区的智能体评测; publish_date: none†hub.baai.ac.cn】 Sep 24, 2025 — 
+L28:   * 【8†Gaia2 与ARE：赋能社区的智能体评测; publish_date: none†hub.baai.ac.cn】 Sep 24, 2025 - 
 L29: 快速评估任意智能体：基于真实或模拟数据，测试不同规则、工具、内容和验证方式下的表现 · 测试智能体的 工具调用与编排能力：可结合本地应用或MCP 工具 · 生成
 L30:  ...
-L31:   * 【9†许多AI 智能体评测基准并不可靠; publish_date: none†my.oschina.net】 Aug 13, 2025 — 
+L31:   * 【9†许多AI 智能体评测基准并不可靠; publish_date: none†my.oschina.net】 Aug 13, 2025 - 
 L32: 当前AI智能体基准测试存在严重缺陷，亟需更严谨的评估框架。作者提出AI智能体基准测试核查清单（ABC），包含43个项目，旨在识别基准测试潜在陷阱，构建可靠评估 
 L33: ...</result>
 </function_results>
@@ -183,7 +183,7 @@ L15:
 L16: Abstract
 L17: 
 L18: Effective deep search agents must not only access open-domain and domain-
-L19: specific knowledge but also apply complex rules—such as legal clauses, medical 
+L19: specific knowledge but also apply complex rules-such as legal clauses, medical 
 L20: manuals and tariff rules. These rules often feature vague boundaries and 
 L21: implicit logic relationships, making precise application challenging for agents.
 L22:  However, this critical capability is largely overlooked by current agent 
@@ -267,8 +267,8 @@ L99: best-performing system (SmolAgent [Roucher et al., 2025] with GPT-5) achiev
 L100: only 46.8% accuracy, substantially below the 95.0% accuracy attained by human 
 L101: experts. Further detailed analysis reveals that existing agent systems lack 
 L102: critical capabilities required for this complex hierarchical rule applications. 
-L103: Notably, test-time scaling approach—which has proven effective in other 
-L104: reasoning tasks [Guo et al., 2025, Liu et al., 2025]—fail to improve performance
+L103: Notably, test-time scaling approach-which has proven effective in other 
+L104: reasoning tasks [Guo et al., 2025, Liu et al., 2025]-fail to improve performance
 L105:  on HSCodeComp. These observations demonstrate the challenging nature of our 
 L106: proposed HSCodeComp, highlighting the need for more effective designs of agent 
 L107: systems. To facilitate future research, we will publicly release codes and the 
@@ -323,7 +323,7 @@ L30: - 人类创建者确保问题在10分钟内无法被人解决
 L31: - 现有模型（包括带浏览功能的ChatGPT和早期版本的OpenAI Deep Research）无法解决
 L32: - 通过5次简单Google搜索无法在结果首页找到答案
 L33: 
-L34: 简单易验证：尽管问题极具挑战性，但答案形式简单——都是短字符串，便于自动验证模型输出的正确性。
+L34: 简单易验证：尽管问题极具挑战性，但答案形式简单--都是短字符串，便于自动验证模型输出的正确性。
 L35: 
 L36: ### 为什么需要BrowseComp？
 L37: 
@@ -387,7 +387,7 @@ L94: - 专业模型的优势：专门为持久网络浏览训练的Deep Research
 L95: 
 L96: #### 计算资源与性能关系
 L97: 
-L98: 研究表明，BrowseComp性能随测试时计算资源的增加而平滑提升（如图1所示）。这与智能体模型的特性一致——更多计算资源允许模型浏览更多网站，从而提高找到正确
+L98: 研究表明，BrowseComp性能随测试时计算资源的增加而平滑提升（如图1所示）。这与智能体模型的特性一致--更多计算资源允许模型浏览更多网站，从而提高找到正确
 L99: 答案的机会。
 L100: 
 L101: ### 进阶策略分析
@@ -414,7 +414,7 @@ L121: ### BrowseComp的意义与局限性
 L122: 
 L123: #### 作为评估工具的价值
 L124: 
-L125: BrowseComp可被视为浏览智能体的"编程竞赛"——虽然不全面，但对核心浏览能力提供了有用的衡量。正如在编程竞赛中表现出色的模型很可能在其他编码任务中表现良
+L125: BrowseComp可被视为浏览智能体的"编程竞赛"--虽然不全面，但对核心浏览能力提供了有用的衡量。正如在编程竞赛中表现出色的模型很可能在其他编码任务中表现良
 L126: 好，能够解决BrowseComp的模型在定位难以查找信息方面应该具有很强的能力。
 L127: 
 L128: #### 已知局限性
@@ -583,22 +583,22 @@ L11:   * 【2†AI Browser Agent Leaderboard | Steel.dev; publish_date:
 L12: none†leaderboard.steel.dev】 See how various AI browser agents stack up based on 
 L13: their accuracy in completing web-based tasks on the WebVoyager benchmark.
 L14:   * 【3†[2401.13919] WebVoyager: Building an End-to-End Web ...; publish_date: 
-L15: none†arxiv.org】 by H He · 2024 · Cited by 282 — We show that WebVoyager achieves
+L15: none†arxiv.org】 by H He · 2024 · Cited by 282 - We show that WebVoyager achieves
 L16:  a 59.1% task success rate on our benchmark, significantly surpassing the 
 L17: performance of both GPT-4 (All ...
 L18:   * 【4†Our Agent-E SOTA Results on the WebVoyager Benchmark; publish_date: 
-L19: none†www.emergence.ai】 Jul 11, 2024 — WebVoyager is a benchmark that tests an 
+L19: none†www.emergence.ai】 Jul 11, 2024 - WebVoyager is a benchmark that tests an 
 L20: agent's capabilities for navigation on dynamic live websites. It is more 
 L21: representative than WebArena [4] ...
 L22:   * 【5†Browser Use = state of the art Web Agent; publish_date: none†browser-
-L23: use.com】 Dec 15, 2024 — Browser Use has achieved state-of-the-art performance on
+L23: use.com】 Dec 15, 2024 - Browser Use has achieved state-of-the-art performance on
 L24:  the WebVoyager benchmark, with an impressive 89.1% success rate across 586 
 L25: diverse web tasks.
 L26:   * 【6†Magnitude achieves SOTA 94% on WebVoyager benchmark; publish_date: 
 L27: none†github.com】 Magnitude achieves state-of-the-art performance with 93.9% 
 L28: success rate on WebVoyager, beating all other browser agents.
 L29:   * 【7†WebVoyager: Autonomous Web Agent Benchmark; publish_date: 
-L30: none†www.emergentmind.com】 3 days ago — WebVoyager Benchmark is a comprehensive 
+L30: none†www.emergentmind.com】 3 days ago - WebVoyager Benchmark is a comprehensive 
 L31: evaluation suite for autonomous web agents, featuring 643 tasks across 15 
 L32: popular websites.
 L33:   * 【8†WebVoyager Benchmark Results; publish_date: none†www.browserable.ai】 
@@ -621,7 +621,7 @@ L5: none†webarena.dev】 Our benchmark is implemented in our fully interactabl
 L6: highly-realistic WebArena environment. It features diverse tasks human may 
 L7: encounter in their daily ...
 L8:   * 【1†[2307.13854] WebArena: A Realistic Web Environment for ...; publish_date:
-L9:  none†arxiv.org】 by S Zhou · 2023 · Cited by 637 — Building upon our 
+L9:  none†arxiv.org】 by S Zhou · 2023 · Cited by 637 - Building upon our 
 L10: environment, we release a set of benchmark tasks focusing on evaluating the 
 L11: functional correctness of task completions.
 L12:   * 【2†WebArena: A Realistic Web Environment for Building ...; publish_date: 
@@ -637,11 +637,11 @@ L21: none†medium.com】 In short, WebArena established a new standard for real
 L22: complexity in web agent evaluation, forcing AI agents to operate in dynamic, 
 L23: high- ...
 L24:   * 【5†WebArena: A Realistic Web Environment for Building ...; publish_date: 
-L25: none†huggingface.co】 Jul 25, 2023 — WebArena, a realistic and reproducible 
+L25: none†huggingface.co】 Jul 25, 2023 - WebArena, a realistic and reproducible 
 L26: environment, evaluates the performance of autonomous agents performing complex 
 L27: tasks on websites using ...
 L28:   * 【6†WebArena Benchmark: Evaluating Web Agents; publish_date: 
-L29: none†www.emergentmind.com】 Jun 30, 2025 — WebArena Benchmark is a self-contained
+L29: none†www.emergentmind.com】 Jun 30, 2025 - WebArena Benchmark is a self-contained
 L30:  suite that evaluates autonomous agents on realistic, multi-step web tasks using
 L31:  natural language ...
 L32:   * 【7†VisualWebArena is a benchmark for multimodal agents.; publish_date: 
@@ -652,7 +652,7 @@ L36:   * 【8†WebDev Arena Leaderboard - LMArena; publish_date: none†web.lma
 L37: WebDev Arena is a real-time AI coding competition where models go head-to-head 
 L38: in web development challenges, developed by LMArena.
 L39:   * 【9†WebArena: A Realistic Web Environment for Building ...; publish_date: 
-L40: none†arxiv.org】 Apr 16, 2024 — We use this benchmark to evaluate several agents 
+L40: none†arxiv.org】 Apr 16, 2024 - We use this benchmark to evaluate several agents 
 L41: that can follow NL command and perform web-based tasks (§4). These agents are 
 L42: implemented in a ...</result>
 <result>[6] GAIA benchmark (Search_Results/GAIA benchmark)
@@ -667,7 +667,7 @@ L5: none†huggingface.co】 GAIA is a benchmark which aims at evaluating next-
 L6: generation LLMs (LLMs with augmented capabilities due to added tooling, 
 L7: efficient prompting, access to search ...
 L8:   * 【1†[2311.12983] GAIA: a benchmark for General AI Assistants; publish_date: 
-L9: none†arxiv.org】 by G Mialon · 2023 · Cited by 367 — GAIA proposes real-world 
+L9: none†arxiv.org】 by G Mialon · 2023 · Cited by 367 - GAIA proposes real-world 
 L10: questions that require a set of fundamental abilities such as reasoning, multi-
 L11: modality handling, web browsing, and generally tool-use ...
 L12:   * 【2†GAIA benchmark; publish_date: none†huggingface.co】 This is the 
@@ -678,7 +678,7 @@ L16: none†ukgovernmentbeis.github.io】 This is an Inspect AI implementation o
 L17: GAIA (General AI Assistants) benchmark, consisting of 450 questions testing tool
 L18:  use on realistic assistant tasks.
 L19:   * 【4†GAIA: a benchmark for general AI assistants | Research; publish_date: 
-L20: none†ai.meta.com】 May 6, 2024 — GAIA proposes real-world questions that require 
+L20: none†ai.meta.com】 May 6, 2024 - GAIA proposes real-world questions that require 
 L21: a set of fundamental abilities such as reasoning, multi-modality handling, web 
 L22: browsing, and generally tool-use ...
 L23:   * 【5†HAL: GAIA Leaderboard; publish_date: none†hal.cs.princeton.edu】 GAIA is a
@@ -686,18 +686,18 @@ L24:  benchmark for General AI Assistants that requires a set of fundamental
 L25: abilities such as reasoning, multi-modality handling, web browsing, and tool- 
 L26: ...
 L27:   * 【6†GAIA: The LLM Agent Benchmark Everyone's Talking About; publish_date: 
-L28: none†towardsdatascience.com】 May 29, 2025 — GAIA stands for General AI 
+L28: none†towardsdatascience.com】 May 29, 2025 - GAIA stands for General AI 
 L29: Assistants benchmark [1]. This benchmark was introduced to specifically evaluate
 L30:  LLM agents on their ability to act as general- ...
 L31:   * 【7†GAIA: a benchmark for General AI Assistants; publish_date: 
-L32: none†openreview.net】 by G Mialon · Cited by 367 — GAIA proposes real-world 
+L32: none†openreview.net】 by G Mialon · Cited by 367 - GAIA proposes real-world 
 L33: questions that require a set of fundamental abilities such as reasoning, multi-
 L34: modality handling, web browsing, and generally tool-use ...
 L35:   * 【8†Rethinking AI Evaluation: Introducing the GAIA Benchmark; publish_date: 
 L36: none†medium.com】 The authors introduce GAIA, a benchmark designed to assess the 
 L37: robustness of AI systems across a variety of practical tasks.
 L38:   * 【9†H2O.ai Tops the General AI Assistant (GAIA) Test; publish_date: 
-L39: none†h2o.ai】 Mar 17, 2025 — Our h2oGPTe Agent has once again claimed the #1 spot
+L39: none†h2o.ai】 Mar 17, 2025 - Our h2oGPTe Agent has once again claimed the #1 spot
 L40:  on the prestigious GAIA (General AI Assistants) benchmark with an impressive 
 L41: 75% accuracy rate.</result>
 <result>[7] ToolBench benchmark (Search_Results/ToolBench benchmark)
@@ -715,7 +715,7 @@ L8:   * 【1†OpenBMB/ToolBench; publish_date: none†github.com】 [2023/7/27]
 L9:  ToolBench is released. ✨Here is an overview of the dataset construction, 
 L10: training, and evaluation. ✨✨Features:.
 L11:   * 【2†Towards Stable Large-Scale Benchmarking on Tool ...; publish_date: 
-L12: none†arxiv.org】 by Z Guo · 2024 · Cited by 100 — We introduce StableToolBench, a
+L12: none†arxiv.org】 by Z Guo · 2024 · Cited by 100 - We introduce StableToolBench, a
 L13:  benchmark evolving from ToolBench, proposing a virtual API server and stable 
 L14: evaluation system.
 L15:   * 【3†StableToolBench - Zhicheng Guo; publish_date: none†zhichengg.github.io】 
@@ -726,15 +726,15 @@ L19: none†evalscope.readthedocs.io】 We evaluate the effectiveness of the Too
 L20: benchmark: ToolBench (Qin et al., 2023b). The task involves integrating API 
 L21: calls to complete tasks.
 L22:   * 【5†Towards Stable Large-Scale Benchmarking on Tool ...; publish_date: 
-L23: none†aclanthology.org】 by Z Guo · 2024 · Cited by 100 — We introduce 
+L23: none†aclanthology.org】 by Z Guo · 2024 · Cited by 100 - We introduce 
 L24: StableToolBench, a benchmark evolving from ToolBench, proposing a virtual API 
 L25: server and stable evaluation system.
 L26:   * 【6†ML-Tool-Bench: Tool-Augmented Planning for ML Tasks; publish_date: 
-L27: none†openreview.net】 Sep 18, 2025 — In this work, we introduce a comprehensive 
+L27: none†openreview.net】 Sep 18, 2025 - In this work, we introduce a comprehensive 
 L28: benchmark for evaluating tool-augmented ML agents using a curated set of 61 
 L29: specialized tools and 15 ...
 L30:   * 【7†-Bench: Benchmarking AI agents for the real-world; publish_date: 
-L31: none†sierra.ai】 Jun 20, 2024 — τ-bench measures an agent's ability to interact 
+L31: none†sierra.ai】 Jun 20, 2024 - τ-bench measures an agent's ability to interact 
 L32: with (simulated) human users and programmatic APIs while following domain-
 L33: specific policies in a consistent ...
 L34:   * 【8†ToolEval Leaderboard; publish_date: none†openbmb.github.io】 ToolEval is 
@@ -755,7 +755,7 @@ L4:   * 【0†HotpotQA Homepage; publish_date: none†hotpotqa.github.io】 Hot
 L5: question answering dataset featuring natural, multi-hop questions, with strong 
 L6: supervision for supporting facts to enable more explainable ...See more
 L7:   * 【1†HotpotQA: A Dataset for Diverse, Explainable Multi-hop ...; publish_date:
-L8:  none†arxiv.org】 by Z Yang · 2018 · Cited by 3834 — HotpotQA is a dataset with 
+L8:  none†arxiv.org】 by Z Yang · 2018 · Cited by 3834 - HotpotQA is a dataset with 
 L9: 113k Wikipedia-based question-answer pairs requiring multi-document reasoning, 
 L10: diverse questions, sentence-level ...
 L11:   * 【2†hotpotqa/hotpot_qa · Datasets at Hugging Face; publish_date: 
@@ -763,21 +763,21 @@ L12: none†huggingface.co】 HotpotQA is a new dataset with 113k Wikipedia-base
 L13: question-answer pairs with four key features: (1) the questions require finding 
 L14: and reasoning over multiple ...See more
 L15:   * 【3†Why You Should Stop Using HotpotQA for AI Agents ...; publish_date: 
-L16: none†qipeng.me】 Jul 1, 2025 — HotpotQA pioneered a class of AI tasks that 
+L16: none†qipeng.me】 Jul 1, 2025 - HotpotQA pioneered a class of AI tasks that 
 L17: requires the AI system to autonomously perform multiple steps of reasoning in an
 L18:  open-domain setting.See more
 L19:   * 【4†hotpotqa/hotpot; publish_date: none†github.com】 A dataset for diverse, 
 L20: explainable multi-hop question answering. This repository contains the baseline 
 L21: model code, as well as the entire pipeline of running ...See more
 L22:   * 【5†HotpotQA: Multi-Hop QA Benchmark; publish_date: 
-L23: none†www.emergentmind.com】 Sep 10, 2025 — HotpotQA is a large-scale multi-hop 
+L23: none†www.emergentmind.com】 Sep 10, 2025 - HotpotQA is a large-scale multi-hop 
 L24: question answering benchmark featuring 112,779 Wikipedia-based Q&A pairs with 
 L25: detailed, sentence-level ...See more
 L26:   * 【6†HotpotQA Dataset | Papers With Code; publish_date: 
 L27: none†paperswithcode.com】 HotpotQA is a question answering dataset collected on 
 L28: the English Wikipedia, containing about 113K crowd-sourced questions.See more
 L29:   * 【7†HotpotQA: A Dataset for Diverse, Explainable Multi-hop ...; publish_date:
-L30:  none†aclanthology.org】 by Z Yang · 2018 · Cited by 3834 — HotpotQA is a dataset
+L30:  none†aclanthology.org】 by Z Yang · 2018 · Cited by 3834 - HotpotQA is a dataset
 L31:  with 113k Wikipedia-based question-answer pairs requiring multi-document 
 L32: reasoning, diverse questions, sentence-level facts, and factoid ...
 L33:   * 【8†Benchmark BM25S: HotpotQA; publish_date: none†www.kaggle.com】 Explore and
@@ -798,7 +798,7 @@ L4:   * 【0†Fever.ai; publish_date: none†fever.ai】 We are pleased to anno
 L5: FEVER9 will be co-located with EACL 2026. In this year's workshop, we will 
 L6: introduce a new shared task focused on automated fact ...
 L7:   * 【1†a Large-scale Dataset for Fact Extraction and VERification; publish_date:
-L8:  none†aclanthology.org】 by J Thorne · 2018 · Cited by 2315 — In this paper we 
+L8:  none†aclanthology.org】 by J Thorne · 2018 · Cited by 2315 - In this paper we 
 L9: introduce a new publicly available dataset for verification against textual 
 L10: sources, FEVER: Fact Extraction.
 L11:   * 【2†awslabs/fever: FEVER (Fact Extraction and VERification) ...; 
@@ -817,11 +817,11 @@ L23:  FEVER. An MTEB dataset. Massive Text Embedding Benchmark. FEVER (Fact
 L24: Extraction and VERification) consists of 185,445 claims generated by altering 
 L25: sentences ...
 L26:   * 【6†FEVEROUS: Fact Extraction and VERification Over ...; publish_date: 
-L27: none†datasets-benchmarks-proceedings.neurips.cc】 by R Aly · Cited by 359 — In 
+L27: none†datasets-benchmarks-proceedings.neurips.cc】 by R Aly · Cited by 359 - In 
 L28: this paper we introduce a novel dataset and benchmark, Fact Extraction and 
 L29: VERification Over. Unstructured and Structured information (FEVEROUS), which ...
 L30:   * 【7†a large-scale dataset for Fact Extraction and VERification; publish_date:
-L31:  none†arxiv.org】 by J Thorne · 2018 · Cited by 2315 — In this paper we introduce
+L31:  none†arxiv.org】 by J Thorne · 2018 · Cited by 2315 - In this paper we introduce
 L32:  a new publicly available dataset for verification against textual sources, 
 L33: FEVER: Fact Extraction and VERification.
 L34:   * 【8†FEVER Resources; publish_date: none†fever.ai】 2018 FEVER: a large-scale 
@@ -842,7 +842,7 @@ L4:   * 【0†TriviaQA; publish_date: none†nlp.cs.washington.edu】 TriviaQA 
 L5:  comprehension dataset containing over 650K question-answer-evidence triples. 
 L6: TriviaQA includes 95K question-answer pairs authored ...
 L7:   * 【1†TriviaQA: A Large Scale Distantly Supervised Challenge ...; publish_date:
-L8:  none†aclanthology.org】 by M Joshi · 2017 · Cited by 3451 — We present TriviaQA,
+L8:  none†aclanthology.org】 by M Joshi · 2017 · Cited by 3451 - We present TriviaQA,
 L9:  a challenging reading comprehension dataset containing over 650K question-
 L10: answer-evidence triples. TriviaQA includes 95K question ...
 L11:   * 【2†mandarjoshi/trivia_qa · Datasets at Hugging Face; publish_date: 
@@ -850,7 +850,7 @@ L12: none†huggingface.co】 TriviaqQA is a reading comprehension dataset conta
 L13: over 650K question-answer-evidence triples. TriviaqQA includes 95K question-
 L14: answer pairs authored by ...
 L15:   * 【3†[1705.03551] TriviaQA: A Large Scale Distantly Supervised ...; 
-L16: publish_date: none†arxiv.org】 by M Joshi · 2017 · Cited by 3451 — We present 
+L16: publish_date: none†arxiv.org】 by M Joshi · 2017 · Cited by 3451 - We present 
 L17: TriviaQA, a challenging reading comprehension dataset containing over 650K 
 L18: question-answer-evidence triples.
 L19:   * 【4†TriviaQA; publish_date: none†epoch.ai】 An open-domain question answering 
@@ -863,11 +863,11 @@ L25: none†github.com】 A large scale distantly supervised challenge dataset f
 L26: reading comprehension. In Association for Computational Linguistics (ACL) 2017, 
 L27: Vancouver, Canada.
 L28:   * 【7†TriviaQA - Model Benchmarks - The Regularizer; publish_date: 
-L29: none†www.theregularizer.com】 May 4, 2025 — Compare the performance of different 
+L29: none†www.theregularizer.com】 May 4, 2025 - Compare the performance of different 
 L30: AI models across standardized benchmarks. Higher scores generally indicate 
 L31: better performance, but context ...
 L32:   * 【8†TriviaQA: A Large Scale Distantly Supervised Challenge ...; publish_date:
-L33:  none†www.cs.utexas.edu】 by M Joshi · Cited by 3445 — We present TriviaQA, a 
+L33:  none†www.cs.utexas.edu】 by M Joshi · Cited by 3445 - We present TriviaQA, a 
 L34: challenging reading comprehension dataset contain- ing over 650K question-
 L35: answer-evidence triples. TriviaQA includes 95K question-.</result>
 <result>[11] Natural Questions benchmark (Search_Results/Natural Questions benchmark)
@@ -878,11 +878,11 @@ L1: URL: Search_Results/Natural Questions benchmark
 L2: # Search Results
 L3: 
 L4:   * 【0†Natural Questions: a Benchmark for Question Answering ...; publish_date: 
-L5: none†research.google】 by T Kwiatkowski · Cited by 4339 — We present the Natural 
+L5: none†research.google】 by T Kwiatkowski · Cited by 4339 - We present the Natural 
 L6: Questions corpus, a question answering dataset. Questions consist of real 
 L7: anonymized, aggregated queries issued to the Google search ...
 L8:   * 【1†Natural Questions: A Benchmark for Question Answering ...; publish_date: 
-L9: none†aclanthology.org】 by T Kwiatkowski · Cited by 4308 — Abstract. We present 
+L9: none†aclanthology.org】 by T Kwiatkowski · Cited by 4308 - Abstract. We present 
 L10: the Natural Questions corpus, a question answering data set. Questions consist 
 L11: of real anonymized, aggregated queries issued.
 L12:   * 【2†Google's Natural Questions; publish_date: none†ai.google.com】 Natural 
@@ -893,7 +893,7 @@ L16: none†github.com】 Natural Questions (NQ) contains real user questions is
 L17: Google search, and answers found from Wikipedia by annotators. NQ is designed 
 L18: for the training and ...
 L19:   * 【4†Natural Questions: A Benchmark for Question Answering ...; publish_date: 
-L20: none†direct.mit.edu】 Aug 1, 2019 — We present the Natural Questions corpus, a 
+L20: none†direct.mit.edu】 Aug 1, 2019 - We present the Natural Questions corpus, a 
 L21: question answering data set. Questions consist of real anonymized, aggregated 
 L22: queries issued to the Google search ...
 L23:   * 【5†ir_datasets : Natural Questions; publish_date: none†ir-datasets.com】 
@@ -907,11 +907,11 @@ L30:   * 【7†Google's Natural Questions; publish_date: none†ai.google.com�
 L31: Questions contains 307K training examples, 8K examples for development, and a 
 L32: further 8K examples for testing. In the paper, we demonstrate a human ...
 L33:   * 【8†A Benchmark for Question Answering Research; publish_date: 
-L34: none†www.researchgate.net】 Jul 27, 2025 — We present the Natural Questions 
+L34: none†www.researchgate.net】 Jul 27, 2025 - We present the Natural Questions 
 L35: corpus, a question answering data set. Questions consist of real anonymized, 
 L36: aggregated queries issued to the Google search ...
 L37:   * 【9†natural-questions; publish_date: none†docs.unity.rc.umass.edu】 Sep 4, 
-L38: 2025 — “Natural questions: a benchmark for question answering research.” 
+L38: 2025 - “Natural questions: a benchmark for question answering research.” 
 L39: Transactions of the Association for Computational Linguistics 7 (2019): ...</result>
 <result>[12] MS MARCO benchmark (Search_Results/MS MARCO benchmark)
 **viewing lines [0 - 41] of 41**
@@ -929,7 +929,7 @@ L9: none†huggingface.co】 Starting with a paper released at NIPS 2016, MS MAR
 L10: collection of datasets focused on deep learning in search. The first dataset was
 L11:  a question ...
 L12:   * 【2†Benchmarking Ranking Models in the Large-Data Regime; publish_date: 
-L13: none†arxiv.org】 by N Craswell · 2021 · Cited by 89 — This paper uses the MS 
+L13: none†arxiv.org】 by N Craswell · 2021 · Cited by 89 - This paper uses the MS 
 L14: MARCO and TREC Deep Learning Track as our case study, comparing it to the case 
 L15: of TREC ad hoc ranking in the 1990s.
 L16:   * 【3†Benchmarking Ranking Models in the Large-Data Regime; publish_date: 
@@ -941,7 +941,7 @@ L21: none†microsoft.github.io】 The MS MARCO document and passage ranking lea
 L22:  complements the TREC Deep Learning Track by providing on-going evaluation of 
 L23: submissions using pre- ...
 L24:   * 【5†MS MARCO: Benchmarking Ranking Models in the Large- ...; publish_date: 
-L25: none†dl.acm.org】 Jul 11, 2021 — This paper uses the MS MARCO and TREC Deep 
+L25: none†dl.acm.org】 Jul 11, 2021 - This paper uses the MS MARCO and TREC Deep 
 L26: Learning Track as our case study, comparing it to the case of TREC ad hoc 
 L27: ranking in the 1990s.
 L28:   * 【6†ir_datasets : MSMARCO (passage); publish_date: none†ir-datasets.com】 A 
@@ -951,11 +951,11 @@ L31:   * 【7†MS MARCO; publish_date: none†sbert.net】 MS MARCO Passage Ran
 L32: large dataset to train models for information retrieval. It consists of about 
 L33: 500k real search queries from Bing search engine ...
 L34:   * 【8†MS MARCO: A Human Generated MAchine Reading ...; publish_date: 
-L35: none†arxiv.org】 by P Bajaj · 2016 · Cited by 1151 — We introduce a large scale 
+L35: none†arxiv.org】 by P Bajaj · 2016 · Cited by 1151 - We introduce a large scale 
 L36: MAchine Reading COmprehension dataset, which we name MS MARCO. The dataset 
 L37: comprises of 1,010,916 anonymized ...
 L38:   * 【9†MS MARCO Web Search: A Large-scale Information-rich ...; publish_date: 
-L39: none†www.microsoft.com】 May 13, 2024 — MS MARCO Web Search offers a retrieval 
+L39: none†www.microsoft.com】 May 13, 2024 - MS MARCO Web Search offers a retrieval 
 L40: benchmark with three web retrieval challenge tasks that demands innovations in 
 L41: both machine learning and ...</result>
 <result>[13] BEIR benchmark (Search_Results/BEIR benchmark)
@@ -966,20 +966,20 @@ L1: URL: Search_Results/BEIR benchmark
 L2: # Search Results
 L3: 
 L4:   * 【0†详细介绍文本检索基准BEIR: A Heterogeneous Benchmark ...; publish_date: 
-L5: none†blog.csdn.net】 2023年1月1日 — 
+L5: none†blog.csdn.net】 2023年1月1日 - 
 L6: BEIR旨在为所有不同的检索任务提供一个一站式的零样本评估基准。为了构建一个全面的评估基准，选择方法对于收集具有理想属性的任务和数据集至关重要。对于 ...
 L7:   * 【1†beir-cellar/beir; publish_date: none†github.com】 BEIR is a heterogeneous 
 L8: benchmark containing diverse IR tasks. It also provides a common and easy 
 L9: framework for evaluation of your NLP-based retrieval models ...
 L10:   * 【2†BEIR: A Heterogenous Benchmark for Zero-shot Evaluation ...; 
-L11: publish_date: none†arxiv.org】 作者：N Thakur · 2021 · 被引用次数：1480 — We introduce 
+L11: publish_date: none†arxiv.org】 作者：N Thakur · 2021 · 被引用次数：1480 - We introduce 
 L12: Benchmarking-IR (BEIR), a robust and heterogeneous evaluation benchmark for 
 L13: information retrieval.
 L14:   * 【3†BeIR; publish_date: none†huggingface.co】 BEIR (Benchmarking IR) consists 
 L15: of a homogenous benchmark for diverse sentence or passage level IR tasks. It 
 L16: provides a common and easy framework for the cross ...
 L17:   * 【4†论文分享：BEIR A Heterogeneous Benchmark for Zero-shot ...; publish_date: 
-L18: none†zhuanlan.zhihu.com】 2022年10月3日 — 分享论文，夹带个人理解的分享，建议结合原论文看。 1 研究背景. 
+L18: none†zhuanlan.zhihu.com】 2022年10月3日 - 分享论文，夹带个人理解的分享，建议结合原论文看。 1 研究背景. 
 L19: 本论文主要关注的领域是query-document检索（下文简称qd检索），即根据query去文档库里 ...
 L20:   * 【5†Benchmarking IR Information Retrieval (BEIR); publish_date: 
 L21: none†zilliz.com】 BEIR is a benchmark designed for evaluating the versatility and
@@ -996,7 +996,7 @@ L31:   * 【8†BEIR Benchmark数据集卡片; publish_date: none†www.atyun.co
 L32: Benchmark数据集卡片. 数据集简介. BEIR是一个异构评测基准，由18个多样化的数据集构建而成，代表了9个信息检索任务：. 事实查证： FEVER ，
 L33:  Climate-FEVER ， SciFact ...
 L34:   * 【9†Evaluating search relevance part 1 - The BEIR benchmark; publish_date: 
-L35: none†www.elastic.co】 2024年7月16日 — Learn to evaluate your search system in the 
+L35: none†www.elastic.co】 2024年7月16日 - Learn to evaluate your search system in the 
 L36: context of better understanding the BEIR benchmark, with tips & techniques to 
 L37: improve your ...</result>
 <result>[14] MIRACL benchmark (Search_Results/MIRACL benchmark)
@@ -1014,7 +1014,7 @@ L8:   * 【1†project-miracl/miracl: A large-scale multilingual dataset for ...
 L9: publish_date: none†github.com】 A large-scale multilingual dataset for 
 L10: Information Retrieval. Thorough human-annotations across 18 diverse languages.
 L11:   * 【2†A Large, multilingual, visual document retrieval benchmark; publish_date:
-L12:  none†arxiv.org】 by R Osmulski · 2025 · Cited by 2 — MIRACL-VISION is a 
+L12:  none†arxiv.org】 by R Osmulski · 2025 · Cited by 2 - MIRACL-VISION is a 
 L13: challenging, representative, multilingual evaluation benchmark for visual 
 L14: retrieval pipelines and will help the community build robust ...
 L15:   * 【3†miracl/miracl · Datasets at Hugging Face; publish_date: 
@@ -1022,22 +1022,22 @@ L16: none†huggingface.co】 MIRACL (Multilingual Information Retrieval Across 
 L17: Continuum of Languages) is a multilingual retrieval dataset that focuses on 
 L18: search across 18 different ...
 L19:   * 【4†MIRACL: A Multilingual Retrieval Dataset Covering 18 ...; publish_date: 
-L20: none†direct.mit.edu】 by X Zhang · 2023 · Cited by 131 — MIRACL is a multilingual
+L20: none†direct.mit.edu】 by X Zhang · 2023 · Cited by 131 - MIRACL is a multilingual
 L21:  dataset for ad hoc retrieval across 18 languages that collectively encompass 
 L22: over three billion native speakers around the world.
 L23:   * 【5†(PDF) MIRACL-VISION: A Large, multilingual, visual ...; publish_date: 
-L24: none†www.researchgate.net】 May 23, 2025 — MIRACL-VISION covers 18 languages, and
+L24: none†www.researchgate.net】 May 23, 2025 - MIRACL-VISION covers 18 languages, and
 L25:  is an extension of the MIRACL dataset, a popular benchmark to evaluate text-
 L26: based multilingual retrieval ...
 L27:   * 【6†A Large, multilingual, visual document retrieval benchmark; publish_date:
-L28:  none†arxiv.org】 by R Osmulski · 2025 · Cited by 2 — MIRACL-VISION is a 
+L28:  none†arxiv.org】 by R Osmulski · 2025 · Cited by 2 - MIRACL-VISION is a 
 L29: challenging, representative, multilingual evaluation benchmark for visual 
 L30: retrieval pipelines and will help the community ...
 L31:   * 【7†ir_datasets : MIRACL; publish_date: none†ir-datasets.com】 
 L32: "miracl/ar/test-a". The held-out test set (version a) for Arabic. 
 L33: queriesdocsCitationMetadata. 936 queries. Language: ar. Query type: 
 L34: GenericQuery: (namedtuple).
-L35:   * 【8†Evaluate on MIRACL — BGE documentation; publish_date: none†bge-model.com】
+L35:   * 【8†Evaluate on MIRACL - BGE documentation; publish_date: none†bge-model.com】
 L36:  MIRACL (Multilingual Information Retrieval Across a Continuum of Languages) is 
 L37: an WSDM 2023 Cup challenge that focuses on search across 18 different languages.
 L38:   * 【9†MIRACL - Alpha's Tech Garden; publish_date: 
@@ -1052,7 +1052,7 @@ L1: URL: Search_Results/Zero-shot IR benchmark
 L2: # Search Results
 L3: 
 L4:   * 【0†BEIR: A Heterogenous Benchmark for Zero-shot Evaluation ...; 
-L5: publish_date: none†arxiv.org】 by N Thakur · 2021 · Cited by 1480 — We introduce 
+L5: publish_date: none†arxiv.org】 by N Thakur · 2021 · Cited by 1480 - We introduce 
 L6: Benchmarking-IR (BEIR), a robust and heterogeneous evaluation benchmark for 
 L7: information retrieval.See more
 L8:   * 【1†beir-cellar/beir; publish_date: none†github.com】 BEIR: A Heterogenous 
@@ -1063,18 +1063,18 @@ L12: none†zilliz.com】 BEIR is a tool to evaluate how well Information Retrie
 L13: systems perform across many tasks and types of information, and is a standard 
 L14: benchmark.
 L15:   * 【3†BEIR: A Heterogeneous Benchmark for Zero-shot ...; publish_date: 
-L16: none†datasets-benchmarks-proceedings.neurips.cc】 by N Thakur · Cited by 1480 — 
+L16: none†datasets-benchmarks-proceedings.neurips.cc】 by N Thakur · Cited by 1480 - 
 L17: BEIR is a robust, heterogeneous benchmark for information retrieval, using 18 
 L18: datasets and 9 tasks to evaluate model generalization.
 L19:   * 【4†BEIR; publish_date: none†eval.ai】 BEIR is a heterogeneous zero-shot 
 L20: retrieval benchmark containing 18 datasets from diverse text retrieval tasks and
 L21:  domains.See more
 L22:   * 【5†[2409.15763] IRSC: A Zero-shot Evaluation Benchmark for ...; 
-L23: publish_date: none†arxiv.org】 by H Lin · 2024 · Cited by 2 — This paper 
+L23: publish_date: none†arxiv.org】 by H Lin · 2024 · Cited by 2 - This paper 
 L24: introduces the IRSC benchmark for evaluating the performance of embedding models
 L25:  in multilingual RAG tasks.See more
 L26:   * 【6†FactIR: A Real-World Zero-shot Open-Domain Retrieval ...; publish_date: 
-L27: none†dl.acm.org】 May 23, 2025 — In this paper, we present a real-world retrieval
+L27: none†dl.acm.org】 May 23, 2025 - In this paper, we present a real-world retrieval
 L28:  benchmark FactIR, derived from Factiverse production logs, enhanced with human 
 L29: annotations. We ...See more
 L30:   * 【7†UniIR: Training and Benchmarking Universal Multimodal ...; publish_date: 
@@ -1082,10 +1082,10 @@ L31: none†tiger-ai-lab.github.io】 At test time, we evaluated the zero-shot
 L32: performance of all fine-tuned models, as well as SoTA pre-trained retrievers on 
 L33: the three held-out datasets. UniIR ...See more
 L34:   * 【8†Zero-Shot BEIR Tasks; publish_date: none†www.emergentmind.com】 Aug 26, 
-L35: 2025 — Zero-Shot BEIR Tasks are evaluation methodologies that assess IR models' 
+L35: 2025 - Zero-Shot BEIR Tasks are evaluation methodologies that assess IR models' 
 L36: ability to generalize to unseen query domains without task-specific ...See more
 L37:   * 【9†BEIR-PL: Zero Shot Information Retrieval Benchmark for ...; publish_date:
-L38:  none†aclanthology.org】 by K Wojtasik · 2024 · Cited by 12 — BEIR-PL is a new 
+L38:  none†aclanthology.org】 by K Wojtasik · 2024 · Cited by 12 - BEIR-PL is a new 
 L39: benchmark with 13 datasets for Polish Information Retrieval, created to advance 
 L40: research in this area.</result>
 <result>[16] WebGPT benchmark (Search_Results/WebGPT benchmark)
@@ -1096,11 +1096,11 @@ L1: URL: Search_Results/WebGPT benchmark
 L2: # Search Results
 L3: 
 L4:   * 【0†WebGPT: Improving the factual accuracy of language ...; publish_date: 
-L5: none†openai.com】 Dec 16, 2021 — Our models outperform GPT‑3 on TruthfulQA and 
+L5: none†openai.com】 Dec 16, 2021 - Our models outperform GPT‑3 on TruthfulQA and 
 L6: exhibit more favourable scaling properties. However, our models lag behind human
 L7:  performance, ...
 L8:   * 【1†A Simple Yet Challenging Benchmark for Browsing Agents; publish_date: 
-L9: none†arxiv.org】 by J Wei · 2025 · Cited by 124 — Abstract. We present 
+L9: none†arxiv.org】 by J Wei · 2025 · Cited by 124 - Abstract. We present 
 L10: BrowseComp, a simple yet challenging benchmark for measuring the ability for 
 L11: agents to browse the web.
 L12:   * 【2†openai/webgpt_comparisons · Datasets at Hugging Face; publish_date: 
@@ -1108,11 +1108,11 @@ L13: none†huggingface.co】 This is the dataset of all comparisons that were m
 L14: suitable for reward modeling by the end of the WebGPT project. There are 19,578 
 L15: comparisons in total.
 L16:   * 【3†Evaluation & Limitations of WebGPT, WebVoyager & Agent-E; publish_date: 
-L17: none†deepsense.ai】 Oct 14, 2024 — WebArena benchmark features 812 tasks 
+L17: none†deepsense.ai】 Oct 14, 2024 - WebArena benchmark features 812 tasks 
 L18: evaluated using metrics such as Exact Match, Must Include, and Fuzzy Match, 
 L19: focusing on outcomes rather ...
 L20:   * 【4†OpenAI Announces Question-Answering AI WebGPT; publish_date: 
-L21: none†www.infoq.com】 Jan 25, 2022 — On the TriviaQA benchmark, WebGPT 
+L21: none†www.infoq.com】 Jan 25, 2022 - On the TriviaQA benchmark, WebGPT 
 L22: outperformed GPT-3, producing answers that were true 75% of the time, and "both 
 L23: true and informative" 54% of ...
 L24:   * 【5†WebGPT: Improving the factual accuracy of language models ...; 
@@ -1124,7 +1124,7 @@ L29: none†www.alphaxiv.org】 WebGPT represents a significant advancement in l
 L30: question answering by combining the language generation capabilities of GPT-3 
 L31: with real-time web ...
 L32:   * 【7†Benchmarking Open-Source Large Language Models, GPT-4 ...; publish_date: 
-L33: none†ai.nejm.org】 by S Wu · 2024 · Cited by 69 — We show that the current widely
+L33: none†ai.nejm.org】 by S Wu · 2024 · Cited by 69 - We show that the current widely
 L34:  used open-source LLMs have poor zero-shot reasoning ability in nephrology 
 L35: compared with GPT-4 and Claude 2.
 L36:   * 【8†0hq/WebGPT: Run GPT model on ...; publish_date: none†github.com】 WebGPT 
@@ -1138,7 +1138,7 @@ L1: URL: Search_Results/WebShop benchmark
 L2: # Search Results
 L3: 
 L4:   * 【0†WebShop: Towards Scalable Real-World Web Interaction ...; publish_date: 
-L5: none†arxiv.org】 by S Yao · 2022 · Cited by 710 — To bridge this gap, we develop 
+L5: none†arxiv.org】 by S Yao · 2022 · Cited by 710 - To bridge this gap, we develop 
 L6: WebShop -- a simulated e-commerce website environment with 1.18 million real-
 L7: world products and 12,087 crowd- ...
 L8:   * 【1†WebShop; publish_date: none†webshop-pnlp.github.io】 To bridge this gap, 
@@ -1148,23 +1148,23 @@ L11:   * 【2†princeton-nlp/WebShop; publish_date: none†github.com】 WebSho
 L12: simulated e-commerce website environment with 1.18 million real-world products 
 L13: and 12,087 crowd-sourced text instructions. In this environment, an ...
 L14:   * 【3†WebShop: Towards Scalable Real-World Web Interaction ...; publish_date: 
-L15: none†papers.nips.cc】 by S Yao · 2022 · Cited by 710 — We collect over 1,600 
+L15: none†papers.nips.cc】 by S Yao · 2022 · Cited by 710 - We collect over 1,600 
 L16: human trajectories to first validate the benchmark, then train and evaluate a 
 L17: diverse range of agents using reinforcement learning, ...
 L18:   * 【4†WebShop: Towards Scalable Real-World Web Interaction ...; publish_date: 
-L19: none†proceedings.neurips.cc】 by S Yao · 2022 · Cited by 709 — We have developed 
+L19: none†proceedings.neurips.cc】 by S Yao · 2022 · Cited by 709 - We have developed 
 L20: WebShop, a new web-based benchmark for sequential decision making and language 
 L21: grounding, modeled on interaction with an e-commerce website.
 L22:   * 【5†Webshop & Benchmark Analysis | Documentation Infinity; publish_date: 
-L23: none†docs.fact-finder.com】 Aug 15, 2025 — Evaluation of your shop based on 
+L23: none†docs.fact-finder.com】 Aug 15, 2025 - Evaluation of your shop based on 
 L24: different categories in comparison, to your competitors/industry. Recommended 
 L25: when doing a shop relaunch.
 L26:   * 【6†A Multi-Shop Benchmark for Evaluating Web Agents; publish_date: 
-L27: none†arxiv.org】 by R Peeters · 2025 · Cited by 2 — Compared to existing 
+L27: none†arxiv.org】 by R Peeters · 2025 · Cited by 2 - Compared to existing 
 L28: e-commerce benchmarks, such as WebShop or ShoppingBench, WebMall introduces 
 L29: comparison-shopping tasks across multiple shops ...
 L30:   * 【7†WebShop: towards scalable real-world web interaction with ...; 
-L31: publish_date: none†dl.acm.org】 by S Yao · 2022 · Cited by 710 — To bridge this 
+L31: publish_date: none†dl.acm.org】 by S Yao · 2022 · Cited by 710 - To bridge this 
 L32: gap, we develop WebShop - a simulated e-commerce website environment with 1.18 
 L33: million real-world products and 12, 087 crowd- ...
 L34:   * 【8†[PDF] WebShop: Towards Scalable Real-World Web ...; publish_date: 
@@ -1172,7 +1172,7 @@ L35: none†www.semanticscholar.org】 It is shown that agents trained on WebSho
 L36:  non-trivial sim-to-real transfer when evaluated on amazon.com and ebay.com, 
 L37: indicating the potential ...
 L38:   * 【9†X-WebAgentBench: A Multilingual Interactive Web ...; publish_date: 
-L39: none†aclanthology.org】 by P Wang · 2025 · Cited by 3 — (2023) based on the 
+L39: none†aclanthology.org】 by P Wang · 2025 · Cited by 3 - (2023) based on the 
 L40: English WebShop benchmark (Yao et al., 2022), while the multilingual task scores
 L41:  are ob- tained through evaluation on our own benchmark.</result>
 <result>[18] ALFWorld benchmark (Search_Results/ALFWorld benchmark)
@@ -1186,7 +1186,7 @@ L4:   * 【0†ALFWorld; publish_date: none†alfworld.github.io】 ALFWorld con
 L5: interactive TextWorld environments (Côté et. al) that parallel embodied worlds 
 L6: in the ALFRED dataset (Shridhar et. al).
 L7:   * 【1†ALFWorld: Aligning Text and Embodied Environments for ...; publish_date: 
-L8: none†arxiv.org】 by M Shridhar · 2020 · Cited by 674 — ALFWorld enables the 
+L8: none†arxiv.org】 by M Shridhar · 2020 · Cited by 674 - ALFWorld enables the 
 L9: creation of a new BUTLER agent whose abstract knowledge, learned in TextWorld, 
 L10: corresponds directly to concrete, visually grounded actions.
 L11:   * 【2†ALFWorld: Aligning Text and Embodied Environments ...; publish_date: 
@@ -1200,10 +1200,10 @@ L18: none†neurips.cc】 On the Alfworld benchmark for indoor instruction follo
 L19: achieve a significantly higher success rate (50% over the baseline) with our 
 L20: novel object ...
 L21:   * 【5†ALFWORLD: ALIGNING TEXT AND EMBODIED ...; publish_date: 
-L22: none†openreview.net】 by M Shridhar · Cited by 674 — The ALFRED dataset (Shridhar
+L22: none†openreview.net】 by M Shridhar · Cited by 674 - The ALFRED dataset (Shridhar
 L23:  et al., 2020), set in the THOR simulator (Kolve et al., 2017), is a benchmark 
 L24: for learning to com- plete embodied household tasks ...
-L25:   * 【6†AlfWorld; publish_date: none†primo.ai】 Mar 23, 2024 — A simulator that 
+L25:   * 【6†AlfWorld; publish_date: none†primo.ai】 Mar 23, 2024 - A simulator that 
 L26: enables agents to learn abstract, text based policies in TextWorld (Côté et al.,
 L27:  2018) and then execute goals from the ALFRED benchmark.
 L28:   * 【7†AlfWorld performance across 134 tasks showing cumulative...; 
@@ -1232,7 +1232,7 @@ L15:   * 【3†HAL: Online Mind2Web Leaderboard; publish_date:
 L16: none†hal.cs.princeton.edu】 Online Mind2Web leaderboard for evaluating AI agents'
 L17:  ability to complete tasks on real, changing webpages.
 L18:   * 【4†[2506.21506] Mind2Web 2: Evaluating Agentic Search with ...; 
-L19: publish_date: none†arxiv.org】 by B Gou · 2025 · Cited by 11 — In this paper, we 
+L19: publish_date: none†arxiv.org】 by B Gou · 2025 · Cited by 11 - In this paper, we 
 L20: introduce Mind2Web 2, a benchmark of 130 realistic, high-quality, and long-
 L21: horizon tasks that require real-time web browsing and extensive ...
 L22:   * 【5†Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge; 
@@ -1240,18 +1240,18 @@ L23: publish_date: none†osu-nlp-group.github.io】 We introduce Mind2Web 2, a 
 L24:  of 130 realistic, high-quality, long-horizon tasks that require real-time web 
 L25: browsing and extensive information ...
 L26:   * 【6†Mind2Web: The Benchmark for AI Agent Evaluation and ...; publish_date: 
-L27: none†www.enhans.ai】 Sep 26, 2025 — Mind2Web is a globally recognized web-based 
+L27: none†www.enhans.ai】 Sep 26, 2025 - Mind2Web is a globally recognized web-based 
 L28: AI Agent evaluation benchmark introduced by the NLP group at Ohio State 
 L29: University at NeurIPS 2023.
 L30:   * 【7†Evaluating AI Web Agents: Insights from the WebCanvas ...; publish_date: 
 L31: none†medium.com】 Thanks to the comprehensive WebCanvas Benchmark, which 
 L32: incorporates a robust Mind2Web-Live data set of 542 live web tasks and 2,439 ...
 L33:   * 【8†Mind2Web: Towards a Generalist Agent for the Web; publish_date: 
-L34: none†proceedings.neurips.cc】 by X Deng · 2023 · Cited by 760 — We introduce 
+L34: none†proceedings.neurips.cc】 by X Deng · 2023 · Cited by 760 - We introduce 
 L35: Mind2Web, the first dataset for developing and evaluating generalist agents for 
 L36: the web that can follow language instructions to complete complex ...
 L37:   * 【9†Mind2Web: Towards a Generalist Agent for the Web; publish_date: 
-L38: none†openreview.net】 by X Deng · Cited by 760 — We introduce Mind2Web, the first
+L38: none†openreview.net】 by X Deng · Cited by 760 - We introduce Mind2Web, the first
 L39:  dataset for developing and evaluating generalist agents for the web that can 
 L40: follow language instructions to complete complex ...</result>
 <result>[20] VisualWebArena benchmark (Search_Results/VisualWebArena benchmark)
@@ -1265,7 +1265,7 @@ L4:   * 【0†VisualWebArena is a benchmark for multimodal agents.; publish_dat
 L5: none†github.com】 VisualWebArena is a realistic and diverse benchmark for 
 L6: evaluating multimodal autonomous language agents.
 L7:   * 【1†Evaluating Multimodal Agents on Realistic Visual Web Tasks; publish_date:
-L8:  none†arxiv.org】 by JY Koh · 2024 · Cited by 363 — To bridge this gap, we 
+L8:  none†arxiv.org】 by JY Koh · 2024 · Cited by 363 - To bridge this gap, we 
 L9: introduce VisualWebArena, a benchmark designed to assess the performance of 
 L10: multimodal web agents on realistic \textit{ ...
 L11:   * 【2†Evaluating Multimodal Agents on Realistic Visual Web Tasks; publish_date:
@@ -1277,7 +1277,7 @@ L16: none†arxiv.org】 VisualWebArena is a research benchmark to measure and e
 L17: the progress of multimodal agents. It is primarily meant to act as a self-
 L18: contained sandbox ...
 L19:   * 【4†Evaluating Multimodal Agents on Realistic Visual Web Tasks; publish_date:
-L20:  none†aclanthology.org】 by JY Koh · 2024 · Cited by 363 — To bridge this gap, we
+L20:  none†aclanthology.org】 by JY Koh · 2024 · Cited by 363 - To bridge this gap, we
 L21:  introduce VisualWebArena, a benchmark designed to assess the performance of 
 L22: multimodal web agents on *realistic visually grounded tasks*.
 L23:   * 【5†Evaluating Multimodal Agents on Realistic Visual Web Tasks; publish_date:
@@ -1285,7 +1285,7 @@ L24:  none†www.semanticscholar.org】 VisualWebArena: Evaluating Multimodal Ag
 L25: Realistic Visual Web Tasks ... MMInA, a multihop and multimodal benchmark to 
 L26: evaluate the embodied agents ...
 L27:   * 【6†CMU Researchers Introduce VisualWebArena: An AI ...; publish_date: 
-L28: none†www.marktechpost.com】 Feb 9, 2024 — VisualWebArena, a benchmark designed 
+L28: none†www.marktechpost.com】 Feb 9, 2024 - VisualWebArena, a benchmark designed 
 L29: and developed to evaluate the performance of multimodal web agents on realistic 
 L30: and visually stimulating challenges.
 L31:   * 【7†Evaluating Multimodal Agents on Realistic Visual Web Tasks; publish_date:
@@ -1315,15 +1315,15 @@ L12: none†huggingface.co】 Dataset Summary. SearchBench is a benchmark design
 L13: evaluate Language Models' (LLMs) ability to solve state-based problems that 
 L14: require combinatorial search ...
 L15:   * 【3†Evaluating LLMs' Ability to Reason About Search Problems; publish_date: 
-L16: none†openreview.net】 2025年10月22日 — To further investigate this, we introduce a 
+L16: none†openreview.net】 2025年10月22日 - To further investigate this, we introduce a 
 L17: new benchmark, SearchBench, which contains 11 unique search problems inspired by
 L18:  intuitive puzzles.
 L19:   * 【4†Navigating the Labyrinth: Evaluating and Enhancing LLMs' ...; 
-L20: publish_date: none†hub.baai.ac.cn】 2024年6月17日 — 
+L20: publish_date: none†hub.baai.ac.cn】 2024年6月17日 - 
 L21: 论文提出了一个新的基准测试SearchBench，包含11种独特的搜索问题类型，并自动化生成任意数量的实例和分析解决方案的可行性、正确性和最优性。论文使用A* 
 L22: ...
 L23:   * 【5†Towards Unified Text-based Person Retrieval: A Large- ...; publish_date: 
-L24: none†blog.csdn.net】 2023年10月17日 — ... Search 
+L24: none†blog.csdn.net】 2023年10月17日 - ... Search 
 L25: Benchmark（面向统一的基于文本的人物检索：一个大规模的多属性和语言搜索基准）; 研究背景. 相关工作; BENCHMARK. 论文方法分析. 网络框架;
 L26:  1、APTM ...
 L27:   * 【6†Desearch-ai/ai-search-benchmark; publish_date: none†github.com】 The 
@@ -1348,7 +1348,7 @@ L1: URL: Search_Results/WebVLN benchmark
 L2: # Search Results
 L3: 
 L4:   * 【0†WebVLN: Vision-and-Language Navigation on Websites; publish_date: 
-L5: none†ojs.aaai.org】 by Q Chen · 2024 · Cited by 35 — the WebVLN-v1 dataset, where
+L5: none†ojs.aaai.org】 by Q Chen · 2024 · Cited by 35 - the WebVLN-v1 dataset, where
 L6:  the performance is far from saturation, highlighting the utility of our 
 L7: WebVLN-v1 as a benchmark to assess progress in this field.
 L8:   * 【1†[2312.15820] WebVLN: Vision-and-Language Navigation on Websites; 
@@ -1372,18 +1372,18 @@ L25: none†www.semanticscholar.org】 A new task named Vision-and-Language Navi
 L26:  Websites (WebVLN), where question-based instructions are used to train an 
 L27: agent, emulating how users ...
 L28:   * 【6†WebVLN: Vision-and-Language Navigation on Websites; publish_date: 
-L29: none†arxiv.org】 by Q Chen · 2023 · Cited by 35 — Experimental results show that 
+L29: none†arxiv.org】 by Q Chen · 2023 · Cited by 35 - Experimental results show that 
 L30: WebVLN-Net outperforms current VLN and web-related navigation methods. We 
 L31: believe that the introduction of the ...
 L32:   * 【7†Human-Aware Vision-and-Language Navigation; publish_date: 
-L33: none†proceedings.neurips.cc】 by H Li · 2024 · Cited by 19 — Vision-and-Language 
+L33: none†proceedings.neurips.cc】 by H Li · 2024 · Cited by 19 - Vision-and-Language 
 L34: Navigation (VLN) [2, 7, 9, 40] has emerged as a key benchmark for evaluating. 
 L35: Sim2Real transfer [23], showing impressive performance in ...
 L36:   * 【8†LiveBench; publish_date: none†livebench.ai】 Introducing LiveBench: a 
 L37: benchmark for LLMs designed with test set contamination and objective evaluation
 L38:  in mind.
 L39:   * 【9†MG-VLN: Benchmarking Multi-Goal and Long-Horizon ...; publish_date: 
-L40: none†ieeexplore.ieee.org】 by J Zhang · 2024 — This task aims to provide a 
+L40: none†ieeexplore.ieee.org】 by J Zhang · 2024 - This task aims to provide a 
 L41: simulation benchmark to guide the design of lifelong and long-horizon navigation
 L42:  robots.</result>
 <result>[23] WebNav benchmark (Search_Results/WebNav benchmark)
@@ -1398,7 +1398,7 @@ L5: none†github.com】 WebNav is a benchmark task for evaluating an agent with
 L6: abilities to understand natural language and plan on partially observed 
 L7: environments.
 L8:   * 【1†[1602.02261] End-to-End Goal-Driven Web Navigation; publish_date: 
-L9: none†arxiv.org】 by R Nogueira · 2016 · Cited by 39 — We propose a goal-driven 
+L9: none†arxiv.org】 by R Nogueira · 2016 · Cited by 39 - We propose a goal-driven 
 L10: web navigation as a benchmark task for evaluating an agent with abilities to 
 L11: understand natural language and plan on partially ...
 L12:   * 【2†nyu-dl/dl4ir-webnav; publish_date: none†github.com】 WebNav is a benchmark
@@ -1412,15 +1412,15 @@ L19:   * 【4†WebNav: An Intelligent Agent for Voice-Controlled Web ...; publi
 L20: none†arxiv.org】 In this paper, we introduce WebNav, an innovative multi-modal 
 L21: agent designed to automate web tasks based on natural language.
 L22:   * 【5†WebCanvas: Benchmarking Web Agents in Online ...; publish_date: 
-L23: none†openreview.net】 by Y Pan · Cited by 78 — TL;DR: We introduce WebCanvas, an 
+L23: none†openreview.net】 by Y Pan · Cited by 78 - TL;DR: We introduce WebCanvas, an 
 L24: online evaluation framework for web agents designed to address the dynamic 
 L25: nature of web interactions.
 L26:   * 【6†WebNav: An Intelligent Agent for Voice-Controlled Web ...; publish_date: 
-L27: none†huggingface.co】 Mar 17, 2025 — Preliminary evaluations show that WebNav 
+L27: none†huggingface.co】 Mar 17, 2025 - Preliminary evaluations show that WebNav 
 L28: outperforms traditional screen readers in response time and task completion 
 L29: accuracy for the visually ...
 L30:   * 【7†Web Bench - A new way to compare AI Browser Agents; publish_date: 
-L31: none†www.skyvern.com】 May 29, 2025 — TL;DR: Web Bench is a new dataset to 
+L31: none†www.skyvern.com】 May 29, 2025 - TL;DR: Web Bench is a new dataset to 
 L32: evaluate web browsing agents that consists of 5,750 tasks on 452 different 
 L33: websites, with 2,454 tasks ...
 L34:   * 【8†Web Framework Benchmarks; publish_date: none†www.techempower.com】 In the 
@@ -1843,7 +1843,7 @@ L69:
 L70: We move in that direction by proposing GAIA, a benchmark for General AI 
 L71: Assistants featuring 466 carefully crafted questions and their answer, along 
 L72: with the associated design methodology. Our questions are easy to create, 
-L73: challenging for AI systems—for LLMs, most require complex generations—, yet 
+L73: challenging for AI systems-for LLMs, most require complex generations-, yet 
 L74: admit a unique, factual answer, allowing a simple and robust automatic 
 L75: evaluation.
 L76: 
@@ -1854,8 +1854,8 @@ L80: browse the open and changing web, handle multi-modality, or reason over mul
 L81:  steps to answer our questions. Conversely, many LLM benchmarks are quite 
 L82: specific and/or restricted to closed and synthetic environments.
 L83: 
-L84: Easy interpretability through conceptually simple tasks—non experts annotators 
-L85: exhibit a near perfect score—, associated reasoning trace, and few but highly 
+L84: Easy interpretability through conceptually simple tasks-non experts annotators 
+L85: exhibit a near perfect score-, associated reasoning trace, and few but highly 
 L86: curated questions. This is in contrast with aggregated benchmarks that can lack 
 L87: efficiency and reliability (Perlitz et al., 2023).
 L88: 
